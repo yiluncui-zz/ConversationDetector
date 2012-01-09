@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chat xmlns="http://purl.org/net/ulf/ns/0.4-02" account="yicui" service="IRC">
+<event type="windowOpened" sender="yicui" time="2011-05-27T09:38:57-07:00"></event>
+<status type="purple" time="2011-05-27T09:38:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The topic for <a href="irc://irc.amazon.com:6667/#intern">#intern</a> is: Welcome Summer Interns.. to the end of productivity.   +op to gain Operator access.  For IRC help, see <a href="https://w?Irc">https://w?Irc</a></span></div></status>
+<message sender="yicui" time="2011-05-27T09:39:09-07:00" alias="yicui1"><div>morning all</div></message>
+<message sender="mabb" time="2011-05-27T09:39:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">g&apos;day</span></div></message>
+<message sender="kitching" time="2011-05-27T09:41:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hey what day is it today?</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:14-07:00"><div><a href="http://www.hugeurl.com/?OGU5ZjUwYzhhOGFmODM5MzdjYTYzNmU4OTZjYTk2ZWEmMTMmVm0wd2QyUXlVWGxWV0d4WFlUSm9WMVl3Wkc5V1ZsbDNXa2M1YWxKc1dqQlVWbHBQVjBaYWMySkVUbGhoTVVwVVZtcEdZV015U2tWVWJHaG9UV3N3ZUZacVFtRlRNazE1VTJ0V1ZXSkhhRzlVVm1oRFZWWmFkR1ZHV214U2JHdzFWa2QwYzJGc1NuUmhSemxWVmpOT00xcFZXbUZrUjA1R1pFWlNUbFpVVmtwV2JURXdZVEZrU0ZOclpHcFRSVXBZVkZWYWQxTkdVbFZTYlVacVZtdGFNRlZ0ZUZOVWJVWTJVbFJHVjFaRmIzZFdha1poVjBaT2NtSkdTbWxTTW1oWlYxZDRiMkl3TUhoWGJHUllZbFZhY2xWc" style="font-family: Helvetica; font-size: 12pt;">http://www.hugeurl.com/?OGU5ZjUwYzhhOGFmODM5MzdjYTYzNmU4OTZjYTk2ZWEmMTMmVm0wd2QyUXlVWGxWV0d4WFlUSm9WMVl3Wkc5V1ZsbDNXa2M1YWxKc1dqQlVWbHBQVjBaYWMySkVUbGhoTVVwVVZtcEdZV015U2tWVWJHaG9UV3N3ZUZacVFtRlRNazE1VTJ0V1ZXSkhhRzlVVm1oRFZWWmFkR1ZHV214U2JHdzFWa2QwYzJGc1NuUmhSemxWVmpOT00xcFZXbUZrUjA1R1pFWlNUbFpVVmtwV2JURXdZVEZrU0ZOclpHcFRSVXBZVkZWYWQxTkdVbFZTYlVacVZtdGFNRlZ0ZUZOVWJVWTJVbFJHVjFaRmIzZFdha1poVjBaT2NtSkdTbWxTTW1oWlYxZDRiMkl3TUhoWGJHUllZbFZhY2xWc</a></div></message>
+<message sender="chris" time="2011-05-27T09:41:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hiR3QzV2tSU1ZrMXJjRWxhU0hCSFZqSkZlVlZZWkZwV1JWcHlWVEJhVDJOc2NFaGpSbEpUVmxoQ1dsWnJXbGRoTVZWNVZXNU9hbEp0VWxsWmJGWmhZMVpzY2xkdFJteFdiVko1VmpJMWExWXdNVVZTYTFwV1lrWktSRlpxUVhoa1ZsWjFWMnhhYUdFeGNGbFhhMVpoVkRKT2RGTnJaRlJpVjNoWVZXcE9iMWRHV25STlNHUnNVakJzTkZVeWRHdGhWazVHVjJ4U1dtSkhhRlJXTVZwWFkxWktjbVJHVWxkaVJtOTNWMnhXYjJFeFdYZE5WVlpUWVRGd1dGbHJaRzlqYkZweFUydGFiRlpzV2xwWGExcHJZVWRGZUdOR2FGaGlSbkJvVmtSS1QyUkdTbkpoUjJoVFlYcFdlbGRYZUc5aU1XUkhWMjVTVGxOSGF</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">EUwVmpGU1ZtRkhPVmhTTUhCSlZsZDRjMWR0U2toaFJsSlhUVVp3VkZacVJtdGtSa3AwWlVaa2FXRXdjRWxXYlhCS1pVVXhSMWRzYUZSaE1sSnhWV3RXWVZZeFduRlViVGxzWWtad2VGVXlkR3RoYlVwV1lucEtWbFl6YUhKWlZXUkdaVWRPUjJGR2FHbFNia0p2Vm10U1MxUXlVa2RVYmtwaFVteEtjRlpxVG05WFZscFlZMFU1YVUxcmJEUldNalZUWVd4S1ZrNVlRbFZXYkZwWVZHdGFhMk5zV25Sa1JtaFRZbFpLU2xkV1ZtRmpNV1IwVTJ0a1dHSlhhRmhaVkVaM1ZrWmFjVkp0ZEd0V2JrSkhWR3hhVDJGWFJYZGpSV3hYWWxoQ1MxcFZXa3BsUm1SellVWlNhRTFzU25kV1YzUmhVekZaZUZWc2FFOV</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">V1d0YWQyVkdWWGxrUjBacFVteHdlbFV5ZUhkWGJGcFhZMGhLVjJGcldreFdNVnBIWTJzeFYxcEdaRTVOUlhCS1ZtMTBVMU14VW5SV2EyUmhVMFphVmxscldtRmpSbHB4VkcwNWEySkdjRWhXYlRBMVZXc3hXRlZ1Y0ZkTlYyaDJWMVphUzFKc1RuUlNiR1JwVjBVME1GWkhkR0ZYYlZaSVVtdG9VRll5YUhCVmJHaENaREZhYzFwRVVtcE5WMUl3VlRKMGIyRkdTbk5UYkdoVlZteHdNMVl3V25KbFJtUnlaRWQwVTJFelFqWldhMlI2VFZaWmVWSllhR2hOTWxKWVdXeG9RMU14Y0ZaV1dHaFVVbXR3ZVZkcldtOWhWMFkyVm01b1YxWkZTblpWVkVaelZqRldjMWRzYUdsaVZrcDZWMWQwWVdReVZrZFdib</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">kU1YxUlhkSGRXTVZwMFkwZEdXR0pHY0ZoWk1HaExWMnhhV0ZWclpHRldWMUpRVld4YWEyTXhjRWhpUm1oVFZsaENTMVp0TVRCVk1VbDVVbGhvWVZKWFVsWlpiWFIzWWpGV2NWTnRPVmRTYlhoNVZtMDFhMVl4V25OalNHaFdWak5vY2xaclZYaFhSbFp6WVVaa1RsWXlhREpXYWtKclV6RmtWMVp1U2xCV2JIQndWakJhU21Wc1drZFdiVVphVmpGS1NWWlhkRzloTVVsNVlVaENWbUpIYUVSV01uaHJWakZhZEU5V1ZrNVdia0YzVmxSS01HRXhXa2hUYmxaU1lsVmFWbFp0ZUhkTk1WcHlWMjFHYWxacmNEQmFSV1F3VlRKRmVsRllaRmhpUmxwb1dWUktSMVl4VG5OYVIyaE9UV3hLV1ZkWGVHOVJNVkpI</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">FtVnJXbGhVVm1SVFpXeHNWbGRzVG1oV2EzQXhWVmMxYjFZeFdYcGhTRXBYVmtWYWVsWnFSbGRqTVdSellVZG9UazFWY0ZsV2JHTjRUa2RSZVZaclpGZFhSM2h5Vld0V1MxZFdWblJsU0U1T1RWWnNOVnBGYUd0V01ERkZVbTVvVm1KWVVuWldha1poVW14a2NtVkdaR2hoTTBKUlZsZHdTMUl4U1hsU2EyaHBVbXMxY0ZVd1ZrdE5iRnAwVFZSQ1ZrMVZNVFJXVnpWVFZqSkZlVlZ1UmxaaVIxRXdWbXhhYzJOc1duSmtSbWhUWWxob05sWnFTakJOUm1SSFYyNVNWbUpIZUZaV2JYaExVa1phY2xaWWFGaFNiRnA1V1ZWYWExUnRSbk5YYkZaWFlUSlJNRmxVUms5U01WcDFWR3hvYVZKc2NGbFhWM1J2VVR</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ElUbGhpVlZwWFZGWmFjMDVHV1hsT1ZrNW9UVlZ3TUZsVldsTldWbHBZWVVWU1ZrMVdjR2haTVZwUFkxWldjMWRyTlZkTlZXd3pWbXhrTkdJeVRYaFhibEpVWVRKU1ZWbHNWbUZXYkZwMFpVaGtUazFZUWxsYVZWcDNZa1pLZFZGclpGVk5WbkJVVm1wS1MxSnRUa1ZYYkdoWFlrWndlVmRZY0VkV2JWRjNUVlprV0dKWGVITlpWRVozVjFaa1YxcEVRbXRpVmtZMFdXdG9SMVpIUlhoalNFNVdZbFJHVkZSV1dsWmxWMDQyVW14a1RsWnVRalpYVkVKaFZqRmtSMWR1VWxaWFIxSlhXbGQwWVdOc1ZuRlNiWFJyVm14YWVWUnNXbXRpUjBwWllVWkdWMDFYVVhkWFZscHpWakZTY2xwR1pHbGhlbFpZVjFjeG</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">WGhYYmxKc1VqQmFXRmxyV2t0V01WcFlUbFYwVmxac1dsWlVWVkp5VUZFOVBRPT0=</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that day</span></div></message>
+<message sender="chris" time="2011-05-27T09:41:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">(last time I do that, promise)</span></div></message>
+<message sender="mabb" time="2011-05-27T09:43:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I swear, I&apos;m not even functionally conscious until about 20 minutes after I get my cup of tea in the morning. Which generally happens after I arrive at work.</span></div></message>
+<message sender="rickeng" time="2011-05-27T09:44:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">is the coffee and tea in the lounges free?</span></div></message>
+<message sender="yicui" time="2011-05-27T09:45:43-07:00" alias="yicui1"><div>i think so..</div></message>
+<message sender="yicui" time="2011-05-27T09:45:45-07:00" alias="yicui1"><div>or...</div></message>
+<message sender="yicui" time="2011-05-27T09:46:00-07:00" alias="yicui1"><div>if not i&apos;ve been stealing for the past couple of days</div></message>
+<message sender="kitching" time="2011-05-27T09:46:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">thief!</span></div></message>
+<message sender="chris" time="2011-05-27T09:46:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">no one has slapped it out of your hand as you leave the lounge?</span></div></message>
+<message sender="yicui" time="2011-05-27T09:46:28-07:00" alias="yicui1"><div>lol..</div></message>
+<message sender="yicui" time="2011-05-27T09:46:29-07:00" alias="yicui1"><div>nope</div></message>
+<message sender="chris" time="2011-05-27T09:46:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">probably free then...</span></div></message>
+<message sender="yicui" time="2011-05-27T09:46:44-07:00" alias="yicui1"><div>when i go..</div></message>
+<message sender="yicui" time="2011-05-27T09:46:47-07:00" alias="yicui1"><div>no one is there</div></message>
+<message sender="yicui" time="2011-05-27T09:46:55-07:00" alias="yicui1"><div>not that i go because no one is there of course</div></message>
+<message sender="chris" time="2011-05-27T09:47:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">well, i haven&apos;t been paying for them</span></div></message>
+<message sender="chris" time="2011-05-27T09:47:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there&apos;s an espresso machine that might cost money</span></div></message>
+<message sender="chris" time="2011-05-27T09:47:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s between two soda machines</span></div></message>
+<message sender="chris" time="2011-05-27T09:47:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i can&apos;t figure out how to operate it</span></div></message>
+<message sender="vardhan" time="2011-05-27T09:49:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">how was the movie?</span></div></message>
+<message sender="yicui" time="2011-05-27T09:49:19-07:00" alias="yicui1"><div>&quot;sudo give-me-some espresso&quot;</div></message>
+<message sender="linhaiz" time="2011-05-27T09:51:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Are there any intern gatherings planned for the weekend?</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:51:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah i have one</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:51:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sleep</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:51:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">a lot.</span></div></message>
+<message sender="vardhan" time="2011-05-27T09:51:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">why, you don&apos;t like hanging out with old people? ;(</span></div></message>
+<message sender="kitching" time="2011-05-27T09:51:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">which old people?</span></div></message>
+<message sender="vardhan" time="2011-05-27T09:52:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i don&apos;t know what you&apos;re talking about.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T09:52:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The 30-something year old co-workers</span></div></message>
+<message sender="linhaiz" time="2011-05-27T09:53:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">They probably have things like &quot;family&quot; to spend time with too.</span></div></message>
+<message sender="yicui" time="2011-05-27T09:53:32-07:00" alias="yicui1"><div>thats like..</div></message>
+<message sender="vardhan" time="2011-05-27T09:53:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">family aren&apos;t things!</span></div></message>
+<message sender="vardhan" time="2011-05-27T09:53:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">family are people too</span></div></message>
+<message sender="yicui" time="2011-05-27T09:53:43-07:00" alias="yicui1"><div>the anti-epitome of hanging out</div></message>
+<message sender="yicui" time="2011-05-27T09:54:02-07:00" alias="yicui1"><div>3day weekends are for exploring</div></message>
+<message sender="yicui" time="2011-05-27T09:54:07-07:00" alias="yicui1"><div>if you&apos;re new to seattle like me</div></message>
+<status type="purple" time="2011-05-27T09:54:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc [<span style="font-style: italic;">jakemc@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="linhaiz" time="2011-05-27T09:54:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Exactly</span></div></message>
+<message sender="yicui" time="2011-05-27T09:54:24-07:00" alias="yicui1"><div>although..</div></message>
+<message sender="yicui" time="2011-05-27T09:54:29-07:00" alias="yicui1"><div>i kind of want to rent a car =x</div></message>
+<message sender="yicui" time="2011-05-27T09:54:34-07:00" alias="yicui1"><div>and go somewhere</div></message>
+<status type="purple" time="2011-05-27T09:54:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">calvinl [<span style="font-style: italic;">calvinl@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="andrzli" time="2011-05-27T09:54:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">screw that</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:54:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m sleeping</span></div></message>
+<status type="purple" time="2011-05-27T09:54:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">parobert [<span style="font-style: italic;">parobert@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="linhaiz" time="2011-05-27T09:54:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Most things downtown are accessable by bus</span></div></message>
+<message sender="linhaiz" time="2011-05-27T09:55:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Unless you want to see west seattle of mercer island</span></div></message>
+<message sender="mattw" time="2011-05-27T09:55:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">who&apos;s throwing the party tonight</span></div></message>
+<message sender="yicui" time="2011-05-27T09:55:54-07:00" alias="yicui1"><div>lol..</div></message>
+<message sender="linhaiz" time="2011-05-27T09:55:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Nathan Yu</span></div></message>
+<message sender="calvinl" time="2011-05-27T09:57:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hello guys</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:57:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">wuddupp</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:57:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">famous amos cookies are so bomb</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:57:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">btw</span></div></message>
+<message sender="alga" time="2011-05-27T09:59:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the cookies in the cafeteria are really good also</span></div></message>
+<message sender="alga" time="2011-05-27T09:59:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">better than famous amos</span></div></message>
+<message sender="kitching" time="2011-05-27T09:59:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Nathan Yu has a sweet rooftop</span></div></message>
+<message sender="andrzli" time="2011-05-27T09:59:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">liar</span></div></message>
+<status type="purple" time="2011-05-27T09:59:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anandsub [<span style="font-style: italic;">anandsub@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="linhaiz" time="2011-05-27T09:59:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">We should pack as many interns as possible into his apartment tonight.</span></div></message>
+<message sender="kitching" time="2011-05-27T09:59:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">agreed</span></div></message>
+<message sender="yicui" time="2011-05-27T09:59:47-07:00" alias="yicui1"><div>lol..</div></message>
+<message sender="yicui" time="2011-05-27T09:59:58-07:00" alias="yicui1"><div>is nathan from umich?</div></message>
+<message sender="yicui" time="2011-05-27T10:00:07-07:00" alias="yicui1"><div>i know a nathan yu from michigan</div></message>
+<message sender="yicui" time="2011-05-27T10:00:10-07:00" alias="yicui1"><div>lol</div></message>
+<message sender="linhaiz" time="2011-05-27T10:00:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I think so.</span></div></message>
+<message sender="yicui" time="2011-05-27T10:00:15-07:00" alias="yicui1"><div>oh really?</div></message>
+<message sender="yicui" time="2011-05-27T10:00:17-07:00" alias="yicui1"><div>awesome</div></message>
+<message sender="andrzli" time="2011-05-27T10:00:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s gonna be a sausage fest</span></div></message>
+<message sender="yicui" time="2011-05-27T10:00:20-07:00" alias="yicui1"><div>damn...</div></message>
+<message sender="yicui" time="2011-05-27T10:00:27-07:00" alias="yicui1"><div>when is it ever not as sausage fest?</div></message>
+<message sender="kitching" time="2011-05-27T10:00:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yicui1: yeah actually it is</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:00:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">We should bring sausages and a grill then.</span></div></message>
+<message sender="kitching" time="2011-05-27T10:00:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">a nathan yu from michigan, that is</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:00:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I want BBQ.</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:01:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">only if they&apos;re polish sausages</span></div></message>
+<message sender="yicui" time="2011-05-27T10:01:04-07:00" alias="yicui1"><div>LOL</div></message>
+<message sender="chris" time="2011-05-27T10:01:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">*is polish*</span></div></message>
+<message sender="yicui" time="2011-05-27T10:01:21-07:00" alias="yicui1"><div>my place has a public grill and a balcony</div></message>
+<message sender="yicui" time="2011-05-27T10:01:24-07:00" alias="yicui1"><div>but im sure</div></message>
+<message sender="anandsub" time="2011-05-27T10:01:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">what time&apos;s the party tonight?</span></div></message>
+<message sender="yicui" time="2011-05-27T10:01:31-07:00" alias="yicui1"><div>no one wants to come to udistrict</div></message>
+<message sender="kitching" time="2011-05-27T10:01:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I think 9pm</span></div></message>
+<message sender="kitching" time="2011-05-27T10:02:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">possibly 8pm. I should ask him</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:02:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and everyone brings beer and food?</span></div></message>
+<message sender="kitching" time="2011-05-27T10:02:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">always byob</span></div></message>
+<message sender="kitching" time="2011-05-27T10:02:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">otherwise you&apos;ll just be drinking someone else&apos;s beer</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:03:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, that can&apos;t be good</span></div></message>
+<message sender="yicui" time="2011-05-27T10:03:32-07:00" alias="yicui1"><div>lmfao..</div></message>
+<message sender="yicui" time="2011-05-27T10:03:49-07:00" alias="yicui1"><div>can i bring orange juice instead? =x</div></message>
+<message sender="linhaiz" time="2011-05-27T10:04:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Where is the party?</span></div></message>
+<message sender="kitching" time="2011-05-27T10:04:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if you want to drink orange juice go ahead :P</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:04:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">somewhere around</span></div></message>
+<message sender="kitching" time="2011-05-27T10:04:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s near SLU</span></div></message>
+<status type="purple" time="2011-05-27T10:08:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">xiaoshan [<span style="font-style: italic;">IceChat77@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="xiaoshan" time="2011-05-27T10:08:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">morning</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:09:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">g&apos;morn</span></div></message>
+<status type="purple" time="2011-05-27T10:09:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">harshalb [<span style="font-style: italic;">harshalb@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="mattw" time="2011-05-27T10:10:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m drinking everyone else&apos;s beer</span></div></message>
+<message sender="mattw" time="2011-05-27T10:10:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">just fyi</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:10:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">good, then I can drink yours</span></div></message>
+<message sender="kitching" time="2011-05-27T10:11:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">are you guys just trying to hide the fact that you are under 21</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:11:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and not be the person who drinks everyone else&apos;s beer</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:12:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">We can organize a trip to Canada.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:12:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I hope all of us are over 18.</span></div></message>
+<message sender="kitching" time="2011-05-27T10:12:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m only 17</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:13:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I didn&apos;t know amazon recruits high schoolers for interns</span></div></message>
+<message sender="kitching" time="2011-05-27T10:13:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hey now, I am in college</span></div></message>
+<message sender="mabb" time="2011-05-27T10:13:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">kitching: but you&apos;re Canadian, right?</span></div></message>
+<message sender="kitching" time="2011-05-27T10:13:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb: correct</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:13:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">my place has a public grill and balcony too!</span></div></message>
+<message sender="mabb" time="2011-05-27T10:13:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so 17 is really no big deal, lol</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:13:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and i live on the 7th floor penthouse</span></div></message>
+<message sender="mabb" time="2011-05-27T10:14:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sweet, my office is now a dog fighting ring</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:14:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I am filled with jealousy.</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:14:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if nathan&apos;s thing falls through, we can just have the party at my place</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:14:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, we got super lucky</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:14:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb: canadians are younger?</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:14:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I opted out of corporate housing.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:14:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">;(</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:14:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you&apos;re probably saving a buttton of money</span></div></message>
+<message sender="anandsub" time="2011-05-27T10:14:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">or is it because of their time zone?</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:15:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">SO MANY T&apos;s</span></div></message>
+<message sender="mabb" time="2011-05-27T10:15:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anandsub: we can legally drink at 18 or 19. 17 is... yeah, 17 is old enough to drink most of the time</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:15:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">All of it is going towards tuition.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:15:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Fun times.</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:15:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">wait what year are you kitching</span></div></message>
+<message sender="kitching" time="2011-05-27T10:16:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli: I&apos;m just starting my freshman year</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:16:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:16:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">what a boss</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:16:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i didn&apos;t know amazon recruited high school people?</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:16:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that&apos;s pretty sick though</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:17:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s really too bad that you&apos;re canadian</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:17:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">;)</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:17:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jk</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:17:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">As long as you show talent, Amazon will take you in.</span></div></message>
+<message sender="kitching" time="2011-05-27T10:17:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I fail to see why being canadian is a bad thing</span></div></message>
+<message sender="mabb" time="2011-05-27T10:17:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it isnt. I&apos;m from Ottawa</span></div></message>
+<message sender="kitching" time="2011-05-27T10:17:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">high five</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:17:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Haven&apos;t you seen Southpark?</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:17:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">can&apos;t become president of the us of a</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:18:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i was jk, i&apos;ll stop with the canadian stuff :P</span></div></message>
+<message sender="kitching" time="2011-05-27T10:18:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">South Park has one of the most accurate portrayals of Canadians that I have seen</span></div></message>
+<message sender="mabb" time="2011-05-27T10:18:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">kitching: what Uni are you starting?</span></div></message>
+<message sender="kitching" time="2011-05-27T10:18:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb: UBC</span></div></message>
+<message sender="mabb" time="2011-05-27T10:18:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ah cool. Short drive home, lucky you. </span></div></message>
+<message sender="kitching" time="2011-05-27T10:18:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, it&apos;s not too far</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:19:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">who here was from vancouver?</span></div></message>
+<message sender="kitching" time="2011-05-27T10:20:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m from vancouver</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:20:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:20:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i was thinking of</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:20:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">going to vancouver for a weekend or something</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:20:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">during the summer</span></div></message>
+<message sender="kitching" time="2011-05-27T10:21:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you should strongly consider this</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:21:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah just need to pick the right weekend</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:23:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">is anyone else going to the mariners game tonight?</span></div></message>
+<message sender="rickeng" time="2011-05-27T10:24:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i saw &quot;beer&quot; in the conversation and got excited</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:24:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli: i&apos;ve got a car, and i&apos;m planning a trip in a couple weekends</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:24:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if you want to come</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:24:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol i&apos;m down</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:24:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;ve got a car too</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:24:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">well FUCK YOU THEN</span></div></message>
+<message sender="kitching" time="2011-05-27T10:24:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hahaha</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:24:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">race to vancouver</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:24:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s on beeyotch</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:25:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m leaving right now</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:25:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">to get a head start</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:25:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">laters</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:25:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;ll wait an hour to give you a fair start</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:25:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">*goes zoom zoom*</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:25:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">check out this graph</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:25:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i lawled a bit</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:25:34-07:00"><div><a href="https://monitorportal.amazon.com/igraph?Action=GetGraph&amp;Version=2007-07-07&amp;SchemaName1=Service&amp;DataSet1=Prod&amp;Marketplace1=us&amp;HostGroup1=ALL&amp;Host1=ALL&amp;ServiceName1=UDLOwnershipService&amp;MethodName1=ALL&amp;Client1=ALL&amp;MetricClass1=NONE&amp;Instance1=NONE&amp;Metric1=Time&amp;Period1=OneHour&amp;Stat1=n&amp;Label1=us&amp;SchemaName2=Service&amp;Marketplace2=uk&amp;YAxisPreference2=right&amp;Label2=uk&amp;SchemaName3=Service&amp;Marketplace3=de&amp;Label3=de&amp;GraphTitle=Over%20ALL%20calls%20to%20" style="font-family: Helvetica; font-size: 12pt;">https://monitorportal.amazon.com/igraph?Action=GetGraph&amp;Version=2007-07-07&amp;SchemaName1=Service&amp;DataSet1=Prod&amp;Marketplace1=us&amp;HostGroup1=ALL&amp;Host1=ALL&amp;ServiceName1=UDLOwnershipService&amp;MethodName1=ALL&amp;Client1=ALL&amp;MetricClass1=NONE&amp;Instance1=NONE&amp;Metric1=Time&amp;Period1=OneHour&amp;Stat1=n&amp;Label1=us&amp;SchemaName2=Service&amp;Marketplace2=uk&amp;YAxisPreference2=right&amp;Label2=uk&amp;SchemaName3=Service&amp;Marketplace3=de&amp;Label3=de&amp;GraphTitle=Over%20ALL%20calls%20to%20</a></div></message>
+<message sender="jakemc" time="2011-05-27T10:25:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">may 23rd is when lady gaga&apos;s album got released for $0.99</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:26:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="chris" time="2011-05-27T10:26:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i see may 27?</span></div></message>
+<message sender="mabb" time="2011-05-27T10:26:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m not seeing anything special on that graph...</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:26:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">maybe my timespan didn&apos;t copy into the URL</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:26:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hold one secerooni</span></div></message>
+<message sender="kimballd" time="2011-05-27T10:26:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">an extra 3 million, nothing special :P</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:26:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s working for me</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:26:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:27:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">look at the blue line</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:27:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s what kimballd said</span></div></message>
+<message sender="chris" time="2011-05-27T10:27:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh is the rest of the data hidden at zero?</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:27:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s a &quot;holy shit&quot; amount of higher digital ownership requests</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:27:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">wlel</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:27:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it is the gaga</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:27:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:27:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">our servers were not &quot;born that way&quot; to handle her traffic</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:28:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:28:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">have you heard weird al&apos;s parody</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">@ jakemc i&apos;m interested in the vancouver trip!</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s actually not half bad</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sweet!</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah calvinl and anyone else is invited too</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i invite myself</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">with andrzli and my car, we can fit a fair amount of people</span></div></message>
+<message sender="mabb" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Vancouver when?</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">tbd</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">definitely not july 4th though</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i hope you guys are cool with hanging out with microsoft interns</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">have to stay in the us for that one</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol i&apos;m fine with that</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah not the 4th</span></div></message>
+<status type="purple" time="2011-05-27T10:29:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sergei left the room (quit: Quit: Leaving.).</span></div></status>
+<message sender="andrzli" time="2011-05-27T10:29:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">a lot of my friends are there :P</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">they are girls though</span></div></message>
+<message sender="mabb" time="2011-05-27T10:29:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli: July 1st is Canada day. Go up to Canada for the Friday night, see the fireworks there and party, come back for July 4th, party here</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so we lose on the sausagefest</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m flying back to</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">california</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that weekend anyway</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">dude</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that sounds awesome</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we can do more than one vancouver trip dude</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s 3 hours away.</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:29:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m totally going up for canada day</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:29:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">down</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:29:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">let&apos;s just commute from vancouver to amazon</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:30:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i did canada at niagra falls a couple years back, and it was AMAZING</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:30:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">not for canada day though :P</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:30:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">err</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:30:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">canada day</span></div></message>
+<message sender="mabb" time="2011-05-27T10:30:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I actually cant go for Canada day, my gf is in town here that weekend</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:30:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">SCHWAPPAHHHH</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:30:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that was the sound of a whip.</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:30:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">HEY THIS GUY HAS A GIRLFRIEND</span></div></message>
+<message sender="jakemc" time="2011-05-27T10:30:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hahahahah</span></div></message>
+<message sender="mabb" time="2011-05-27T10:30:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">diaf</span></div></message>
+<status type="purple" time="2011-05-27T10:30:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sergei [<span style="font-style: italic;">turin@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="linhaiz" time="2011-05-27T10:30:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Girlfriend?  unheard of!</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:32:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah man, we&apos;re all comp sci nerds here</span></div></message>
+<message sender="mabb" time="2011-05-27T10:32:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">see, that weekend has to be awesome</span></div></message>
+<status type="purple" time="2011-05-27T10:32:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ahsu [<span style="font-style: italic;">ahsu@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="mabb" time="2011-05-27T10:32:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">she is dead set against ever moving to the USA</span></div></message>
+<message sender="mabb" time="2011-05-27T10:32:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so, she&apos;s coming to visit me for a week. </span></div></message>
+<message sender="mabb" time="2011-05-27T10:33:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I have to sell her on &quot;Seattle is a sweet place&quot;</span></div></message>
+<message sender="mabb" time="2011-05-27T10:33:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">in case I get a full time offer</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:33:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">seattle..is not a sweet place</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:33:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">IS seattle a sweet place?</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:33:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the weather here sucks ;_;</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:33:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Better than the east coast.</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:33:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">california is a sweet place</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:33:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">california is the best place</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:34:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ftfy</span></div></message>
+<message sender="calvinl" time="2011-05-27T10:34:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">california credit to team</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:34:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">If Katy Perry is correct, it is.</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:34:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hey she&apos;s just talking about california girls</span></div></message>
+<message sender="linhaiz" time="2011-05-27T10:34:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">*gurls</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:34:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we&apos;re unforgettable</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:34:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">daisy dukes, bikinis on top</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:35:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">some other stuff</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:35:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ooooohoooh</span></div></message>
+<message sender="yicui" time="2011-05-27T10:36:45-07:00" alias="yicui1"><div>if you like cali so much</div></message>
+<message sender="yicui" time="2011-05-27T10:36:49-07:00" alias="yicui1"><div>why didnt you work there?</div></message>
+<message sender="yicui" time="2011-05-27T10:36:49-07:00" alias="yicui1"><div>=P</div></message>
+<message sender="mattw" time="2011-05-27T10:37:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">texas is a better place</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:37:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">&apos;cause i didn&apos;t get offer an internship there</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:37:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so...that kind of eliminated it</span></div></message>
+<message sender="andrzli" time="2011-05-27T10:37:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">as a place to work</span></div></message>
+<message sender="yicui" time="2011-05-27T10:41:16-07:00" alias="yicui1"><div>lol..</div></message>
+<message sender="yicui" time="2011-05-27T10:41:22-07:00" alias="yicui1"><div>i see</div></message>
+<message sender="yicui" time="2011-05-27T10:41:28-07:00" alias="yicui1"><div>i worked @ apple last summer</div></message>
+<message sender="yicui" time="2011-05-27T10:41:31-07:00" alias="yicui1"><div>it was pretty sweet</div></message>
+<message sender="yicui" time="2011-05-27T10:41:34-07:00" alias="yicui1"><div>although..</div></message>
+<message sender="yicui" time="2011-05-27T10:41:41-07:00" alias="yicui1"><div>cupertino isnt a very happening place</div></message>
+<message sender="yicui" time="2011-05-27T10:41:48-07:00" alias="yicui1"><div>sanfran was nice</div></message>
+<status type="disconnected" sender="yicui" time="2011-05-27T10:47:54-07:00" alias="yicui1"><div>You have disconnected</div></status>
+<status type="connected" time="2011-05-27T10:48:10-07:00"><div>You have connected</div></status>
+<status type="purple" time="2011-05-27T10:48:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The topic for <a href="irc://irc.amazon.com:6667/#intern">#intern</a> is: Welcome Summer Interns.. to the end of productivity.   +op to gain Operator access.  For IRC help, see <a href="https://w?Irc">https://w?Irc</a></span></div></status>
+<status type="purple" time="2011-05-27T10:52:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Resolver [<span style="font-style: italic;">Resolver@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T10:53:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jfong left the room (quit: Remote host closed the connection).</span></div></status>
+<status type="purple" time="2011-05-27T10:55:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">rosario [<span style="font-style: italic;">rosario@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T10:57:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">chris_ [<span style="font-style: italic;">chris@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T11:03:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">chris left the room (quit: Ping timeout: 244 seconds).</span></div></status>
+<message sender="jakemc" time="2011-05-27T11:04:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">netsplit?</span></div></message>
+<status type="purple" time="2011-05-27T11:04:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">chris_ left the room (quit: Ping timeout: 258 seconds).</span></div></status>
+<status type="purple" time="2011-05-27T11:04:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">abrando [<span style="font-style: italic;">abrando@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="cmei" time="2011-05-27T11:06:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Anyone here using Process Manager?</span></div></message>
+<status type="purple" time="2011-05-27T11:08:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">chris [<span style="font-style: italic;">chris@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T11:09:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sergei left the room (quit: Quit: Leaving.).</span></div></status>
+<status type="purple" time="2011-05-27T11:12:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sergei [<span style="font-style: italic;">turin@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="linhaiz" time="2011-05-27T11:19:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Does anyone here have android development experience?</span></div></message>
+<message sender="yicui" time="2011-05-27T11:20:43-07:00" alias="yicui1"><div>lol..</div></message>
+<message sender="yicui" time="2011-05-27T11:20:51-07:00" alias="yicui1"><div>how deep an experience do you want?</div></message>
+<message sender="yicui" time="2011-05-27T11:21:20-07:00" alias="yicui1"><div>i wrote apps that did side channel communication attacks on android a couple of months ago</div></message>
+<message sender="yicui" time="2011-05-27T11:21:24-07:00" alias="yicui1"><div>is that enough?</div></message>
+<message sender="linhaiz" time="2011-05-27T11:24:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m encountering memory issues with image display.</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:24:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">how are you drawing the image?</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:24:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Using imageviews.</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:24:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">how big is the image you&apos;re loading, and what kind of android device are you using?</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:25:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">It displays when it&apos;s first run, but the memory runs out when the orientation changes.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:25:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">~2mb, on a new Galaxy S</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:25:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that&apos;s odd, i&apos;ve never had imageview give me any issues with memory</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:25:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">dalvik has a pretty aggressive garbage collector</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:25:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m guessing that it&apos;s not freeing memory when it re-draws views</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:25:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">do you have the exact error it gives up?</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:25:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, well have you tried killing that imageview</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:26:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and making a new one with the new orientation</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:26:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so that it&apos;s forced to garbagecollect the old one</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:26:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m guessing it has to create a new texture for the rotated one</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:26:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and it puts that in the memory before getting rid of the old one</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:26:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I assumed that it&apos;s done automatically.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:27:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The error is Bitmap Size Exceeds VM Memory Budget</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:27:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">should I recycle the views?</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:28:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">set them to null</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:28:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the dalvik collector takes care of the rest</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:28:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so get rid of them on the layout</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:28:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">then you can tell the garbagecollector that you don&apos;t want it any more by either replacing your variable with another ImageView</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:28:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">or null-setting it</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:28:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i believe.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:29:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Thankis, Ill try that.</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:29:20-07:00"><div><a href="http://stackoverflow.com/questions/477572/android-strange-out-of-memory-issue/823966#823966" style="font-family: Helvetica; font-size: 12pt;">http://stackoverflow.com/questions/477572/android-strange-out-of-memory-issue/823966#823966</a></div></message>
+<message sender="jakemc" time="2011-05-27T11:29:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Also check that out</span></div></message>
+<message sender="mattw" time="2011-05-27T11:29:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you can also join the android dev mailing list and ask it there if you want</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:29:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">BitmapFactory has better control over memory usage</span></div></message>
+<message sender="mattw" time="2011-05-27T11:29:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you&apos;ll probably get a response</span></div></message>
+<message sender="radsmith" time="2011-05-27T11:35:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anyone want to get together for lunch today?</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:39:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I feel like going to the place with the pizzas.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:40:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The garage I think.</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:41:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anybody eating?</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:41:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m hungry too.</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:41:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">could use food.</span></div></message>
+<message sender="radsmith" time="2011-05-27T11:41:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;d like to check out the garage. I haven&apos;t been there yet</span></div></message>
+<message sender="radsmith" time="2011-05-27T11:42:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">pizza also sounds delicious at the moment</span></div></message>
+<status type="purple" time="2011-05-27T11:42:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">msanchez [<span style="font-style: italic;">msanchez@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="jakemc" time="2011-05-27T11:42:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i haven&apos;t been there either</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:42:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it looked kind of expensive though</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:42:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the food truck right outside of sea24 is $5 for a double bacon cheeseburger and fries</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:42:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s awesome</span></div></message>
+<message sender="radsmith" time="2011-05-27T11:43:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I went to the mexican cart yesterday and got a steak super burrito. good stuff</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:44:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">where&apos;s the mexican one?</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T11:45:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">does the food truck take credit card?</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:45:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">not sure</span></div></message>
+<message sender="radsmith" time="2011-05-27T11:45:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it was on boren... don&apos;t remember the cross street</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:45:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i ran over to the atm before going</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:45:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I haven&apos;t tried the food trucks yet.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:45:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Today is probably a good time to start.</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T11:45:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I just want to find some warm food......</span></div></message>
+<status type="purple" time="2011-05-27T11:51:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">fredkuo [<span style="font-style: italic;">fredkuo@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T11:52:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">kobit [<span style="font-style: italic;">kobit@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="yicui" time="2011-05-27T11:54:34-07:00" alias="yicui1"><div>lol.. xiaoshan, you want warm food everyday</div></message>
+<message sender="xiaoshan" time="2011-05-27T11:55:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:)</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:55:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">wutttt</span></div></message>
+<message sender="jakemc" time="2011-05-27T11:55:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the roof party has been postponed because of a little bit of rain</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T11:55:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">&quot;a little fall of rain...can hardly hurt me now..&quot;</span></div></message>
+<message sender="linhaiz" time="2011-05-27T11:56:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Hmm... Probably movie then...</span></div></message>
+<status type="purple" time="2011-05-27T11:57:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ryanspo_ [<span style="font-style: italic;">ryanspo@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T11:57:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ryanspo_ left the room (quit: Quit: Leaving).</span></div></status>
+<status type="purple" time="2011-05-27T11:57:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jfong [<span style="font-style: italic;">jfong@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T12:02:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mode (+o andrzli) by reshen</span></div></status>
+<message sender="kitching" time="2011-05-27T12:02:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yo jakemc, what kind of place do you have for party-hosting?</span></div></message>
+<message sender="kitching" time="2011-05-27T12:02:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">nathan says he might have to bail because he didn&apos;t reserve the roof and becaues it might be raining</span></div></message>
+<message sender="linhaiz" time="2011-05-27T12:07:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m going to the garage, who wants to join?</span></div></message>
+<status type="purple" time="2011-05-27T12:09:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sunilgar [<span style="font-style: italic;">sunilgar@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="rickeng" time="2011-05-27T12:09:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The garage has mexican today, its amazing</span></div></message>
+<status type="purple" time="2011-05-27T12:11:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">linhaiz left the room (quit: Ping timeout: 244 seconds).</span></div></status>
+<status type="purple" time="2011-05-27T12:13:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">abrando left the room (quit: Ping timeout: 244 seconds).</span></div></status>
+<status type="purple" time="2011-05-27T12:16:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">loghry [<span style="font-style: italic;">loghry@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T12:16:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">loghry left the room.</span></div></status>
+<status type="purple" time="2011-05-27T12:16:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">joshstew left the room (quit: Quit: Leaving.).</span></div></status>
+<message sender="jakemc" time="2011-05-27T12:21:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah that&apos;s lame</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:21:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i can host</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:21:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s a huge apartment</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:22:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">can easily hold 50 interns</span></div></message>
+<message sender="mabb" time="2011-05-27T12:23:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">party-what?</span></div></message>
+<message sender="kitching" time="2011-05-27T12:23:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: well what do you say to a party at your place tonight then :P</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">absolutely yes</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i just got some good scotch</span></div></message>
+<message sender="kitching" time="2011-05-27T12:24:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">do you have speakers?</span></div></message>
+<message sender="mabb" time="2011-05-27T12:24:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">where when</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i have amazing speakers</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">magnapan if you know them</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m an audiophile.</span></div></message>
+<message sender="kitching" time="2011-05-27T12:24:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">nice</span></div></message>
+<message sender="kitching" time="2011-05-27T12:24:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">well, maybe send out a message on the list?</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">doing that right now</span></div></message>
+<message sender="mabb" time="2011-05-27T12:24:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that word, audiophile, has always sounded far more sexual than it ought to</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i kind of like it like that</span></div></message>
+<message sender="mabb" time="2011-05-27T12:24:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc... understand how many people are on that list</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:24:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that&apos;s the amount of passion you should have for music</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:25:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh, i understand</span></div></message>
+<message sender="kitching" time="2011-05-27T12:25:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hahaha</span></div></message>
+<message sender="kitching" time="2011-05-27T12:25:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;ll be like a club</span></div></message>
+<message sender="kitching" time="2011-05-27T12:25:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">line-up at the door</span></div></message>
+<message sender="mabb" time="2011-05-27T12:25:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">302</span></div></message>
+<message sender="mabb" time="2011-05-27T12:25:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">If you send that message out, 302 people will receive it</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:25:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and not all of them will come</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:25:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">this will be an experiment</span></div></message>
+<message sender="mabb" time="2011-05-27T12:25:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Do you expect it to be only 1 in 6?</span></div></message>
+<message sender="ryanspo" time="2011-05-27T12:26:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">better than the &lt; than 39 who will come from here</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:26:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yup</span></div></message>
+<message sender="mabb" time="2011-05-27T12:26:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but we&apos;re the cool kids</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:26:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i don&apos;t care</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:26:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m not going to be exclusive</span></div></message>
+<message sender="mabb" time="2011-05-27T12:26:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you&apos;re a mad man</span></div></message>
+<message sender="ryanspo" time="2011-05-27T12:26:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">props</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:26:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if too many people come, then too many peopel come</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:26:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and we learn</span></div></message>
+<message sender="mabb" time="2011-05-27T12:26:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:) I like learning this way, so long as it&apos;s not me doing the learning</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:27:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, i&apos;ll be doign the cleanup</span></div></message>
+<message sender="jakemc" time="2011-05-27T12:27:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:P</span></div></message>
+<message sender="mabb" time="2011-05-27T12:27:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Seattle-Area interns just have a reputation. Ever wondered why Bill Gates stopped having the Microsoft intern party at his house? </span></div></message>
+<message sender="mabb" time="2011-05-27T12:28:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">because one year, 2007 afaik, shit got too wild.</span></div></message>
+<message sender="mabb" time="2011-05-27T12:28:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oooo Z68 mobos are out! </span></div></message>
+<status type="purple" time="2011-05-27T12:31:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">linhaiz [<span style="font-style: italic;">linhaiz@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T12:34:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jfong434 left the room (quit: Ping timeout: 244 seconds).</span></div></status>
+<message sender="sevan" time="2011-05-27T12:36:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">heh, i htin it was &apos;07 that my brother interned there... i know he was at bill&apos;s house</span></div></message>
+<message sender="mabb" time="2011-05-27T12:37:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">then he was one of the last interns to do so. 2009, they did not (from experience), and no one who had been there the year before had.</span></div></message>
+<message sender="mattw" time="2011-05-27T12:37:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">how was interning there?</span></div></message>
+<message sender="mabb" time="2011-05-27T12:39:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">*shrug* similar to here, but different in many ways.</span></div></message>
+<message sender="mabb" time="2011-05-27T12:40:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">more benefits, but their full timers get paid less than ours. </span></div></message>
+<message sender="mabb" time="2011-05-27T12:41:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">had an office that I shared with one other intern, where as here I share a room with a small team. I think I prefer this better than that though. </span></div></message>
+<message sender="mattw" time="2011-05-27T12:50:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anyone know if we get 401k here as interns?</span></div></message>
+<message sender="mabb" time="2011-05-27T12:51:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: count me in, re:email.</span></div></message>
+<message sender="mabb" time="2011-05-27T12:52:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but what time?</span></div></message>
+<message sender="ryanspo" time="2011-05-27T12:55:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb:  I have an office with one other intern...</span></div></message>
+<status type="purple" time="2011-05-27T12:56:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">joshstew [<span style="font-style: italic;">joshstew@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="mabb" time="2011-05-27T12:56:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ryanspo: is it a window office, facing a garden, with flowers and bunnies (seriously, there were bunnies)</span></div></message>
+<message sender="ryanspo" time="2011-05-27T12:56:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb: no o.o</span></div></message>
+<message sender="mabb" time="2011-05-27T12:57:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but see, the office was a problem for me. My manager was like, down a hallway, in his own office. Yes, it meant I could code without distraction, but as an intern, having closer contact is better imho</span></div></message>
+<message sender="andrzli" time="2011-05-27T12:59:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">screw you both i&apos;m all by myself</span></div></message>
+<message sender="mabb" time="2011-05-27T12:59:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="mabb" time="2011-05-27T12:59:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you&apos;ll always have us</span></div></message>
+<message sender="andrzli" time="2011-05-27T12:59:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m so lonely ;_;</span></div></message>
+<message sender="linhaiz" time="2011-05-27T13:00:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The group I&apos;m in has 3 people.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T13:00:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Our cubicles are in the same column,</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:02:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">my team&apos;s in another room</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:02:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and  another separated column</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:02:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and i&apos;m separated from everyone</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:02:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">;_;</span></div></message>
+<message sender="ryanspo" time="2011-05-27T13:03:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">foreveralone</span></div></message>
+<message sender="linhaiz" time="2011-05-27T13:03:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">haha</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:04:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh well</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:04:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i have you guys!</span></div></message>
+<status type="purple" time="2011-05-27T13:04:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli left the room (quit: Quit: andrzli Signing off).</span></div></status>
+<status type="purple" time="2011-05-27T13:04:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli [<span style="font-style: italic;">andrzli@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="andrzli" time="2011-05-27T13:04:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">...</span></div></message>
+<message sender="yicui" time="2011-05-27T13:05:06-07:00" alias="yicui1"><div>lol..</div></message>
+<message sender="andrzli" time="2011-05-27T13:05:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and when i try to push the left arrow i accidentally push</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:05:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the back page button</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:05:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">great timing on that one :P</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:07:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">customize your keys :)</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:08:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i actually have a lenovo laptop at home, so i&apos;m used to them being there</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:08:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and i sort of like them</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:08:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s just in those random cases</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:08:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">where i facepalm</span></div></message>
+<status type="purple" time="2011-05-27T13:11:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sergei left the room (quit: Quit: Leaving.).</span></div></status>
+<status type="purple" time="2011-05-27T13:11:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">chris left the room (quit: Quit: leaving).</span></div></status>
+<status type="purple" time="2011-05-27T13:12:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">chris [<span style="font-style: italic;">chris@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="mabb" time="2011-05-27T13:18:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">what&apos;s a good price these days for a decent gaming pc?</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:18:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">depends on how BA you want it to be</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:19:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mid-range isn&apos;t too expensive though</span></div></message>
+<message sender="mabb" time="2011-05-27T13:19:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m very interested in the new i7 2600K cpus</span></div></message>
+<message sender="mabb" time="2011-05-27T13:19:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but if I want that, I really should get a Z68 mobo, which adds to cost. </span></div></message>
+<message sender="andrzli" time="2011-05-27T13:20:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">how much more are you looking at</span></div></message>
+<message sender="mabb" time="2011-05-27T13:20:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and if I&apos;m getting a Z68, I really should get an SSD drive so that I can use the caching feature</span></div></message>
+<message sender="kimballd" time="2011-05-27T13:20:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">give a mouse a cookie...</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:20:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you&apos;ll probably be using the computer for at least 5 years</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:20:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s an investment</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:20:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">just go crazy</span></div></message>
+<message sender="mabb" time="2011-05-27T13:20:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">right now what I have is priced to over $1300. </span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:20:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I would buy the cheapest possible.</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:20:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">go for it</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:21:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;"> would buy the most expensive possible</span></div></message>
+<message sender="chris" time="2011-05-27T13:21:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;ve bought all parts from NewEgg for the past 8 or so years</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:21:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">computers are consummables</span></div></message>
+<message sender="chris" time="2011-05-27T13:21:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but now they&apos;re not always the cheapest anymore....</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:21:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you should buy it from amazon</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:21:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">with your 10% off</span></div></message>
+<message sender="mabb" time="2011-05-27T13:21:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but thats 16GB memory, PCI SSD drive...</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:22:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">new components decrease in value very fast. so buying cheap components that do not change value very fast is your best bet.</span></div></message>
+<message sender="mabb" time="2011-05-27T13:22:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">calvinl: you raise a good point, amazon should have the stuff...</span></div></message>
+<message sender="kitching" time="2011-05-27T13:23:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: got any responses?</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:23:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">plus moore&apos;s law is gonna kick your ass</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:23:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you shouldn&apos;t buy the new stuff, since it&apos;ll depreciate in value so fast</span></div></message>
+<message sender="kimballd" time="2011-05-27T13:23:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">unless he&apos;s looking to sell it at some point, value depreciation isn&apos;t too relevant</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:24:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">For instance, a 2 TB harddrive costs $70, while two years ago with $70 you could hardly buy a 250 GB drive...</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:24:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">save your money to buy that 10 TB drive a few years later is always a good idea</span></div></message>
+<message sender="mabb" time="2011-05-27T13:24:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but I want to play video games *now*, not in a few years</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:25:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the point is that this is not an investment.</span></div></message>
+<message sender="ryanspo" time="2011-05-27T13:25:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i hear chrome laptops have angry birds.  thats a video game...</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:25:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">at least not one that could win...if you buy expensive parts</span></div></message>
+<message sender="kitching" time="2011-05-27T13:25:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">what kind of video game</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:25:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">unless you&apos;re doing a lot of graphic development</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:26:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">then the stuff 2 yearas ago should be more than enough</span></div></message>
+<message sender="mabb" time="2011-05-27T13:26:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Listen, there&apos;s a new eldar scrolls game coming out in November. And if I&apos;m not playing it on the highest settings enjoyably, then i&apos;ve done something wrong.</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:26:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">actually doing graphic development takes very cheap computers...renderings are always done on rendering farms anyway..</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:29:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I signed up for amazon student...it does not appear useful when I am buying more exotic items.. = =||</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:29:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i meant an investment in terms of utility not really in terms of resale value</span></div></message>
+<message sender="mabb" time="2011-05-27T13:30:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">okay, so my cart with Amazon for the same set of items it $1394, compared to $1327 on newegg. But, minus 10%...</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:30:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, got responses from about 10 people so far kitching </span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:31:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I dont think it works that way...your discount code is capped..</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:31:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">note: it&apos;s not 10% off everything, only 10% off eligible stuff</span></div></message>
+<message sender="mabb" time="2011-05-27T13:31:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">aaaawe</span></div></message>
+<message sender="kimballd" time="2011-05-27T13:31:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the 10% off only applies to the first $1000 each year fyi</span></div></message>
+<status type="purple" time="2011-05-27T13:31:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">harshalb left the room (quit: Ping timeout: 258 seconds).</span></div></status>
+<message sender="calvinl" time="2011-05-27T13:31:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you save max $100</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:31:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">out of $1000, yup</span></div></message>
+<message sender="mabb" time="2011-05-27T13:31:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hrm, darn</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:31:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but it wouldn&apos;t hurt to try</span></div></message>
+<message sender="mabb" time="2011-05-27T13:31:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if I get fired it might</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:31:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">get past the promotional code page to see how much you&apos;re actually saving</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:31:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">what are the eligible items?</span></div></message>
+<status type="purple" time="2011-05-27T13:31:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sergei [<span style="font-style: italic;">turin@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="calvinl" time="2011-05-27T13:31:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m quoting &quot;eligible&quot; from their description</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:31:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">like is there a list of categories and stuff?</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:32:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i have no idea</span></div></message>
+<message sender="andrzli" time="2011-05-27T13:32:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ooh okay</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:32:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">probably everything that is amazon prime-able is eligible?</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:32:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">wait xiaoshan, the discount is capped?</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:32:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the discount is capped, yes</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:32:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">aw damn, that&apos;s lame :P</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:32:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">at least i can save $100</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:32:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">$100 discount for up to $1000</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:32:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">on my pc</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:32:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:32:46-07:00"><div><a href="https://inside.amazon.com/en/Employment/LUXBenefits/Pages/Luxemployeediscountcode.aspx" style="font-family: Helvetica; font-size: 12pt;">https://inside.amazon.com/en/Employment/LUXBenefits/Pages/Luxemployeediscountcode.aspx</a></div></message>
+<message sender="jakemc" time="2011-05-27T13:33:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">when do you guys want to start the party?</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:33:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">doesnt say about .com</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:33:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lemme check your address first = =</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:34:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">9 sounds good</span></div></message>
+<message sender="mabb" time="2011-05-27T13:34:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: whenever. I&apos;d be in for grabbing pizza or something beforehand if anyone wants to meet for dinner</span></div></message>
+<message sender="kitching" time="2011-05-27T13:35:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: not bad.  FYI to anyone who drinks, stores that sell hard liquor close at around 7 here I think</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:36:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah i&apos;m down</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:36:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">they close at 11, kitching</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:36:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">at least in belltown where my apartment is</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:36:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there&apos;s one a couple blocks up the hill</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:37:29-07:00"><div><a href="http://tiny/64s5/amazJL42dpB000" style="font-family: Helvetica; font-size: 12pt;">http://tiny/64s5/amazJL42dpB000</a></div></message>
+<message sender="kitching" time="2011-05-27T13:39:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: hard liquor? are you sure it&apos;s not just beer and wine?</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:39:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah hard liquor</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:39:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the grocery stores are open even later</span></div></message>
+<message sender="kitching" time="2011-05-27T13:39:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">grocery stores don&apos;t sell hard liquor</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:40:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i think they do..</span></div></message>
+<message sender="kitching" time="2011-05-27T13:40:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">which one?</span></div></message>
+<message sender="kitching" time="2011-05-27T13:40:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;ve only ever seen beer and wine at grocery stores</span></div></message>
+<message sender="anandsub" time="2011-05-27T13:40:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there&apos;s one near my apt.</span></div></message>
+<message sender="anandsub" time="2011-05-27T13:40:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that says &quot;hard liquor&quot;</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:41:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">safeway qfc basically every grocery store i&apos;ve ever been in</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T13:41:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">fresh appears to sell wine..</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:41:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">actually you&apos;re right</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:41:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">they appear to close around 9 at the altest</span></div></message>
+<message sender="yicui" time="2011-05-27T13:42:02-07:00" alias="yicui1"><div>man..</div></message>
+<message sender="anandsub" time="2011-05-27T13:42:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">aren&apos;t there stores that just sell hard liquor which stay open later?</span></div></message>
+<message sender="yicui" time="2011-05-27T13:42:08-07:00" alias="yicui1"><div>amazon has crappy perks</div></message>
+<message sender="kitching" time="2011-05-27T13:42:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">calvinl: which safeway? the one I went to didn&apos;t have hard liquor</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:43:08-07:00"><div><a href="http://goo.gl/7XJlQ" style="font-family: Helvetica; font-size: 12pt;">http://goo.gl/7XJlQ</a></div></message>
+<message sender="calvinl" time="2011-05-27T13:43:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">or i might be mistaking it with another safeway elsewhere</span></div></message>
+<message sender="kitching" time="2011-05-27T13:43:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">this appears to be a map to <a href="http://maps.google.com/">http://maps.google.com/</a> :)</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:44:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">whoops!</span></div></message>
+<message sender="chris" time="2011-05-27T13:44:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anyone want to grab food before the party tonight</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:44:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the safeway on 1st ave west</span></div></message>
+<message sender="chris" time="2011-05-27T13:44:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">also, do you all live near one another or on the same team, or no?</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:44:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">is anyone walking from the dexter area to jake&apos;s place?</span></div></message>
+<message sender="kitching" time="2011-05-27T13:45:10-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">calvinl: this is the one I went to :)</span></div></message>
+<message sender="kitching" time="2011-05-27T13:45:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">unless it was downstairs or something, I didn&apos;t see any there</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:45:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the safeway was super huge</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:45:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">maybe i&apos;m mistakened </span></div></message>
+<status type="purple" time="2011-05-27T13:46:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mo left the room (quit: Remote host closed the connection).</span></div></status>
+<message sender="kitching" time="2011-05-27T13:46:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">nah it&apos;s possible that grocery stores do carry hard liquor but if so I would really like to know where</span></div></message>
+<message sender="calvinl" time="2011-05-27T13:46:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">they wait until you leave before taking it out</span></div></message>
+<message sender="kitching" time="2011-05-27T13:47:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hahah, yes</span></div></message>
+<message sender="anandsub" time="2011-05-27T13:47:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there&apos;s a store around here <a href="http://is.gd/j6SbG9">http://is.gd/j6SbG9</a></span></div></message>
+<message sender="anandsub" time="2011-05-27T13:47:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that sells hard liquor</span></div></message>
+<message sender="kitching" time="2011-05-27T13:48:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">awesome, what time does it close?</span></div></message>
+<message sender="anandsub" time="2011-05-27T13:50:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">9 I think </span></div></message>
+<message sender="mabb" time="2011-05-27T13:50:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I had thought liquor was only sold at the state run place?</span></div></message>
+<status type="purple" time="2011-05-27T13:57:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ishan left the room (quit: Remote host closed the connection).</span></div></status>
+<status type="purple" time="2011-05-27T13:59:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ishan [<span style="font-style: italic;">iwahi@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="jakemc" time="2011-05-27T13:59:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the only places that have hard liquor are government-run</span></div></message>
+<message sender="anandsub" time="2011-05-27T13:59:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">really?</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:59:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:59:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">washington law</span></div></message>
+<message sender="jakemc" time="2011-05-27T13:59:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">only beer and wine at grocery stores</span></div></message>
+<message sender="anandsub" time="2011-05-27T13:59:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">damn</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:00:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yep</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:00:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">not like you can&apos;t have fun with beer though</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:00:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but there&apos;s nothing like some good scotch</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:00:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">iv&apos;e got good scotch</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:01:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">excellent</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:01:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but if too many people turn up, there won&apos;t be enough to go around</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:03:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">this is true</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:03:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">which is why i said we need more :P</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:03:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if any of you live by a liquor store and wants to stop by one before the party</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:03:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">scotch is yumy</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:03:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we can get money rounded up to compensate</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:03:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there seems to be a liquor store near 2nd avenue</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:03:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah, i have some speyburn single malt at the apartment</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:03:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">according to google maps</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:04:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ok cool</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:04:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that&apos;s perfect</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:04:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s washington liquor store <a href="irc://irc.amazon.com:6667/#2">#2</a></span></div></message>
+<status type="purple" time="2011-05-27T14:04:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ishan left the room (quit: Remote host closed the connection).</span></div></status>
+<message sender="anandsub" time="2011-05-27T14:05:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">shit wait... apparently this one closes at 6pm!</span></div></message>
+<status type="purple" time="2011-05-27T14:06:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sunilgar left the room (quit: Ping timeout: 258 seconds).</span></div></status>
+<message sender="anandsub" time="2011-05-27T14:07:40-07:00"><div><a href="http://www.yelp.com/biz/washington-liquor-store-28-seattle" style="font-family: Helvetica; font-size: 12pt;">http://www.yelp.com/biz/washington-liquor-store-28-seattle</a></div></message>
+<message sender="anandsub" time="2011-05-27T14:07:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">this one&apos;s better</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:07:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">closes only at 9pm</span></div></message>
+<message sender="ryanspo" time="2011-05-27T14:09:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">whoever goes, err on the side of too much.  i&apos;d much rather pay extra and take some home and/or save some for the next time.</span></div></message>
+<message sender="ryanspo" time="2011-05-27T14:09:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i doubt im alone in that</span></div></message>
+<status type="purple" time="2011-05-27T14:13:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">harshalb [<span style="font-style: italic;">harshalb@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="jakemc" time="2011-05-27T14:17:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m planning on heading out of here around 6pm</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:17:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">any of you want to go with me on a liquor run?</span></div></message>
+<message sender="chris" time="2011-05-27T14:18:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: i&apos;d go</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:18:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc: foosball?</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">aw hell yeah andrzli </span></div></message>
+<message sender="andrzli" time="2011-05-27T14:19:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeee</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and cool chris, what&apos;s your number?</span></div></message>
+<message sender="chris" time="2011-05-27T14:19:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">908-892-3595 </span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">okey dokes</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;ll let you know when i&apos;m heading out</span></div></message>
+<message sender="chris" time="2011-05-27T14:19:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">cool</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mine&apos;s 217-714-3894</span></div></message>
+<message sender="chris" time="2011-05-27T14:19:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the store is pretty far from here...</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">feel free to do the opposite if you leave early</span></div></message>
+<message sender="chris" time="2011-05-27T14:19:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">bus?</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:19:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah we can find a bus</span></div></message>
+<message sender="chris" time="2011-05-27T14:20:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">alright, saved the number, see you later</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:20:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">see yaaa</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:23:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">room&apos;s open</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:23:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">for foos</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:23:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">where&apos;s the room for foos?</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:23:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;ll join you guys</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:23:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sea24</span></div></message>
+<message sender="ryanspo" time="2011-05-27T14:23:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you guys on 3rd floor?</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:23:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">4th floor</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:23:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&apos;m on 3rd floor</span></div></message>
+<message sender="ryanspo" time="2011-05-27T14:23:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">boo</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there&apos;s a wiki page</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">for foosball tables</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but sea24&apos;s isn&apos;t on there lol</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">super secret kindle stuff i bet</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:24:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">haha</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">cat&apos;s out of hte bag now</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:24:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I think other interns can&apos;t get in sea24</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:24:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">need special permission on id</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">come to 4th floor</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">right now</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:24:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we&apos;re gonna play</span></div></message>
+<message sender="anandsub" time="2011-05-27T14:24:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ok</span></div></message>
+<message sender="chris" time="2011-05-27T14:25:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">anyone know if there&apos;s a place to pick up a CD-R or DVD-R around ?</span></div></message>
+<message sender="andrzli" time="2011-05-27T14:25:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">aight laters</span></div></message>
+<message sender="chris" time="2011-05-27T14:25:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">supply room has only paper, envelopes, and lightbulbs...</span></div></message>
+<status type="purple" time="2011-05-27T14:26:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ishan [<span style="font-style: italic;">iwahi@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T14:26:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">joshstew left the room (quit: Quit: Leaving.).</span></div></status>
+<status type="purple" time="2011-05-27T14:31:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">radsmith left the room (quit: Quit: Linkinus - http://linkinus.com).</span></div></status>
+<status type="purple" time="2011-05-27T14:33:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">raghavp [<span style="font-style: italic;">raghavp@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T14:35:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Resolver left the room (quit: Ping timeout: 258 seconds).</span></div></status>
+<status type="purple" time="2011-05-27T14:41:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">rasool [<span style="font-style: italic;">IceChat77@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<status type="purple" time="2011-05-27T14:42:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">rasool left the room (quit: Quit: A fine is a tax for doing wrong. A tax is a fine for doing well).</span></div></status>
+<message sender="alga" time="2011-05-27T14:44:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol intern starcraft tourney</span></div></message>
+<message sender="chris" time="2011-05-27T14:46:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;d do it if i didnt suck at starcraft</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:46:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;d do it if i had starcraft 2</span></div></message>
+<message sender="yicui" time="2011-05-27T14:46:41-07:00" alias="yicui1"><div>starcraft ftw..</div></message>
+<message sender="yicui" time="2011-05-27T14:46:52-07:00" alias="yicui1"><div>i dont play a lot of 1&apos;s though</div></message>
+<message sender="mabb" time="2011-05-27T14:47:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">starcraft?</span></div></message>
+<message sender="jakemc" time="2011-05-27T14:47:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">starcraft.</span></div></message>
+<message sender="calvinl" time="2011-05-27T14:47:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">play for fun</span></div></message>
+<message sender="alga" time="2011-05-27T14:49:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yep i suck at starcraft as well</span></div></message>
+<message sender="yicui" time="2011-05-27T14:53:43-07:00" alias="yicui1"><div>lol...</div></message>
+<message sender="yicui" time="2011-05-27T14:53:53-07:00" alias="yicui1"><div>how did dota get onto the sc2 email</div></message>
+<message sender="yicui" time="2011-05-27T14:54:01-07:00" alias="yicui1"><div>i havent played that game in over a year</div></message>
+<message sender="yicui" time="2011-05-27T14:54:03-07:00" alias="yicui1"><div>...</div></message>
+<message sender="yicui" time="2011-05-27T14:54:09-07:00" alias="yicui1"><div>ever since i got a mac =x</div></message>
+<message sender="chris" time="2011-05-27T14:54:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there&apos;s a mac client</span></div></message>
+<message sender="chris" time="2011-05-27T14:54:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">no excuses </span></div></message>
+<message sender="linhaiz" time="2011-05-27T14:54:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I wish we had our own minecraft server.</span></div></message>
+<message sender="linhaiz" time="2011-05-27T14:55:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">We can have an intern continent.</span></div></message>
+<message sender="kitching" time="2011-05-27T14:55:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">starcraft 1 &gt; starcraft 2</span></div></message>
+<message sender="mabb" time="2011-05-27T14:56:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I love em both</span></div></message>
+<message sender="linhaiz" time="2011-05-27T14:57:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I haven&apos;t touched a lot of RTS games aside from civ and maybe simcity</span></div></message>
+<message sender="mattw" time="2011-05-27T14:58:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you guys heard of league of legends?</span></div></message>
+<message sender="mattw" time="2011-05-27T14:58:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">free to play</span></div></message>
+<message sender="mattw" time="2011-05-27T14:58:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s basically DotA</span></div></message>
+<message sender="mattw" time="2011-05-27T14:58:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">made by the same guys</span></div></message>
+<message sender="mattw" time="2011-05-27T14:58:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but so much better imo</span></div></message>
+<message sender="chris" time="2011-05-27T14:59:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i like whoever has SC2 user cattlebruiser</span></div></message>
+<message sender="chris" time="2011-05-27T15:00:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">day9 fan?</span></div></message>
+<message sender="anandsub" time="2011-05-27T15:00:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">league of legends = LoL?</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:01:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">duude day9 went to my school</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:01:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i saw him walking around</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:01:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but i was too starstruck to say anything</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:01:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">;_;</span></div></message>
+<message sender="chris" time="2011-05-27T15:02:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">which school</span></div></message>
+<message sender="chris" time="2011-05-27T15:02:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">harvy mudd?</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">USC</span></div></message>
+<message sender="chris" time="2011-05-27T15:02:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">or the one in california</span></div></message>
+<message sender="chris" time="2011-05-27T15:02:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh cool</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">he just graduated</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">both are in california</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="ryanspo" time="2011-05-27T15:02:26-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">go bears</span></div></message>
+<message sender="chris" time="2011-05-27T15:02:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh well one of them was more known to me to be in CA</span></div></message>
+<message sender="chris" time="2011-05-27T15:02:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the Mudd one, i had no idea where it was</span></div></message>
+<message sender="ryanspo" time="2011-05-27T15:02:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">just sayin</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">...</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">bears</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">beets</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:02:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">battlestar galactica</span></div></message>
+<message sender="ryanspo" time="2011-05-27T15:02:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">MICHAEL</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:03:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:D</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:03:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yes LoL = league of legends</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:03:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">civ isn&apos;t really RTS</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:03:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">OH valve is in Seattle</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:03:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">would you guys be interested in going</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:03:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and hasslin&apos; them about half life 3</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:03:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lool</span></div></message>
+<message sender="chris" time="2011-05-27T15:03:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">one does not simply walk into Valve</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:03:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">valve can&apos;t count to 3</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:04:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hahahaha</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:04:16-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">o</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:04:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;d be fine with halflife 4</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:04:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:04:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">or hl2 ep4</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:04:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m stoked for</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:04:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">diablo 3 though</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:04:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">who&apos;s day9?</span></div></message>
+<message sender="chris" time="2011-05-27T15:05:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">starcraft 2 commentator </span></div></message>
+<message sender="chris" time="2011-05-27T15:05:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">slash caster</span></div></message>
+<message sender="chris" time="2011-05-27T15:05:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you know, they do live casts streaming online</span></div></message>
+<message sender="chris" time="2011-05-27T15:05:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">nerd shit</span></div></message>
+<message sender="chris" time="2011-05-27T15:05:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:)</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:07:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ahh</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:07:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">nice</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">he used to play pro too</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and was probably top zerg in the US in BW at one point</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:08:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s all about tasteless</span></div></message>
+<message sender="chris" time="2011-05-27T15:08:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m partial to Destiny</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">&quot;how was your game sean&quot;</span></div></message>
+<message sender="chris" time="2011-05-27T15:08:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">dude is hilarious </span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">YES</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">destiny</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">destiny and psy</span></div></message>
+<message sender="chris" time="2011-05-27T15:08:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">YOU CAN&quot;T LEAVE!</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:08:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">JIMMY NOOOOOO</span></div></message>
+<message sender="chris" time="2011-05-27T15:09:00-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">cracked me up</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:09:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">JIMMY DEFEND YOUR RAMP</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:09:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">DEFEND YOUR RANMP</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:09:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we never prioritize our bm over our macro</span></div></message>
+<message sender="cmei" time="2011-05-27T15:09:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Obligatory: <a href="http://www.youtube.com/watch?v=jcQedw7R1zk">http://www.youtube.com/watch?v=jcQedw7R1zk</a></span></div></message>
+<message sender="andrzli" time="2011-05-27T15:10:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">spanishiwa is really cool too</span></div></message>
+<message sender="chris" time="2011-05-27T15:10:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">cmei: Yes, that&apos;s the You can&apos;t leave! video</span></div></message>
+<message sender="mabb" time="2011-05-27T15:10:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">day9 = awesome, whoever was talking about him</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:10:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">all of us were</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:10:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:P</span></div></message>
+<message sender="chris" time="2011-05-27T15:10:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">cmei: and now you&apos;re a convicted felon</span></div></message>
+<message sender="mabb" time="2011-05-27T15:10:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">watchi his 2 hour video about his personal history. It&apos;s an epic tale, and it&apos;s a wonderful video. </span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the 100 daily</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">someone has footage of it</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there was a reddit link to it</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">like that whole tournament</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the guy was following artosis though</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">not day0</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:12:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">day9*</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">dude</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:14:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we should do giant 4v4 monobattles :D</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">holy. shit.</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">sasquatch festival has the best lineup i&apos;ve ever seen</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:15-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and it&apos;s this weekend.</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:21-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and this girl is selling tickets for $200, but I&apos;m broke</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">this is upsetting.</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:14:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah i saw that</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:14:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m so tempted to buy it</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:14:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">she&apos;s the deskside lady</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:14:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="mabb" time="2011-05-27T15:14:48-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I do not care about any band enough to pay $200 for tickets</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:15:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but you&apos;re getting 20+ bands!</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:15:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">do you care about every band you love enoug hto pay $200 to see all of them?</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:15:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:15:04-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">all my favorite bands are dead</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:15:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so....</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:15:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">:&apos;(</span></div></message>
+<message sender="mabb" time="2011-05-27T15:15:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">my favourite bands don&apos;t usually cost very much to see, or else don&apos;t perform at all anymore</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:15:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">modest mouse, flaming lips, wilco, rodrigo y gabriela, ratatat, beach house, flying lotus, the antlers, tim minchin</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:15:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">you must be an indie hipster</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:16:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">GAHHHHHHH</span></div></message>
+<message sender="mabb" time="2011-05-27T15:16:02-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">*puts on hipster glasses*</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:16:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">ratatat is cool</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:16:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">rodrigo y gabriela will be there???</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:16:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">holy shit</span></div></message>
+<message sender="mabb" time="2011-05-27T15:16:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">TIM MINCHIN?</span></div></message>
+<message sender="mabb" time="2011-05-27T15:16:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">How much were those tickets/</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:16:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">200 bucks</span></div></message>
+<message sender="mabb" time="2011-05-27T15:16:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I&quot;LL TAKE FIVE</span></div></message>
+<message sender="chris" time="2011-05-27T15:16:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but that&apos;s after heavy discounting</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:16:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i thought you didn&apos;t care enough to pay 200 for tickets</span></div></message>
+<message sender="mabb" time="2011-05-27T15:16:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I wont actually, but I do love Tim Minchin</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:16:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">tim minchin is so amazing</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:08-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">this whole lineup is the greatest thing ever</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it makes me warm and nervous inside</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i wish i could go</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:17:18-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Y U NO GO?</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:17:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i feel bad that i have no idea who tim minchin is</span></div></message>
+<message sender="mabb" time="2011-05-27T15:17:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">because payday is Tuesday</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:37-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">payday is tuesday</span></div></message>
+<message sender="mabb" time="2011-05-27T15:17:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli: youtube that shit, mate. Hilarious guy.</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and she&apos;s selling the ticket that&apos;ll probably be gone today</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:17:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i just googled him</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:17:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">andrzli: look up the ginger song</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i think i have</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">seen a video</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:05-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">actually..</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i can&apos;t remember what it was</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:27-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">though</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">he looks familiar</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:18:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh well</span></div></message>
+<status type="purple" time="2011-05-27T15:18:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">vardhan left the room.</span></div></status>
+<message sender="mabb" time="2011-05-27T15:20:40-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Hrm. My project is not going well. We are now on to plan B, only 3 weeks into my internship.</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:20:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i can&apos;t seem to find where sasquatch will be held</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:21:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">gorge ampitheatre</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:21:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">in george, washington</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:22:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">thx</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">how far away is that</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:22:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so far away man</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:22:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">about 6 miles from us</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:22:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">dunno i just wikipedia&apos;d it</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that&apos;s awful.</span></div></message>
+<message sender="mabb" time="2011-05-27T15:22:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Oh man, the Gorge is apparently amazing</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:22:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">woah woah woah</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:22:36-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">skrillex is gonna be there?</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yep</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:22:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">seriously?</span></div></message>
+<message sender="mabb" time="2011-05-27T15:22:46-07:00"><div><a href="http://en.wikipedia.org/wiki/File:Gorge_Amphitheatre.jpg" style="font-family: Helvetica; font-size: 12pt;">http://en.wikipedia.org/wiki/File:Gorge_Amphitheatre.jpg</a></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:47-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and mstrkrft</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:22:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it says</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:22:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i would totally go if it didn&apos;t take 1.5 hours to bus there</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and flying lotus</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:22:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">on monday</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:22:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i have a car dude</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:22:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">he&apos;s going to be there</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:23:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">are you going jake?</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:23:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if you lend me $200</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:23:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hah</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:23:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the tickets are sold out, and shu is only selling one</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:23:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">foofighters are gonna be there too</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:23:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yeah</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:23:19-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i was gonna take it</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:23:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so both of us couldn&apos;t go anyway</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:23:23-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if i found a way to get there</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:23:24-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">fight</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:23:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">well shee-yit</span></div></message>
+<message sender="mabb" time="2011-05-27T15:23:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we could buy that ticket, and then scalp it on the internet for an extra $200.</span></div></message>
+<message sender="mabb" time="2011-05-27T15:23:42-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and then buy beer</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:23:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we could scalp it for $400 probably</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:23:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">they&apos;re sold out</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:23:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i like the way you think</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:24:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">although we&apos;d have to drive there and sell it</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:24:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">since it starts tonight</span></div></message>
+<message sender="mabb" time="2011-05-27T15:24:14-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Capitalists do it ruthlessly</span></div></message>
+<status type="purple" time="2011-05-27T15:24:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">msanchez left the room (quit: Quit: msanchez Signing off).</span></div></status>
+<message sender="calvinl" time="2011-05-27T15:24:20-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i bet if you offered 150 for the ticket</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:24:22-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">she&apos;d sell it to you</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:24:29-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">hARUMPH THIS IS TOUGH</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:24:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">since she supposedly hasn&apos;t sold it yet</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:24:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">isn&apos;t scalping technically illegal?</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:24:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s not illegal if you don&apos;t get caught</span></div></message>
+<message sender="mabb" time="2011-05-27T15:24:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">no, no andrzli</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:24:41-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">;-)</span></div></message>
+<message sender="mabb" time="2011-05-27T15:24:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s not technically illegal</span></div></message>
+<message sender="mabb" time="2011-05-27T15:24:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it&apos;s completely illegaly</span></div></message>
+<message sender="mabb" time="2011-05-27T15:24:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">illegal*</span></div></message>
+<message sender="mabb" time="2011-05-27T15:24:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">which is why it&apos;s advisable to never do the things I suggest</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:25:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">lol</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:32:34-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">someone bought it already</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:32:35-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">fuck</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:33:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">find him</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:33:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">and stab him</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:33:54-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">he hadn&apos;t come yet</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:33:55-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">just kidding</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:33:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but she said someone called</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:33:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so it&apos;s sold</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:34:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i don&apos;t condone violence</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:34:11-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">only imaginary bloodshed</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:34:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">just pretend to be that guy</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:34:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">that called</span></div></message>
+<message sender="mabb" time="2011-05-27T15:39:39-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">calvinl: you and I are going to get along, sir. Go team social engineering</span></div></message>
+<message sender="mabb" time="2011-05-27T15:40:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">Who is in SEA26, this is important</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:40:25-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there are tickets on craigslist calvinl</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:40:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i&apos;m trying to get my hands on som</span></div></message>
+<message sender="mabb" time="2011-05-27T15:40:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">there may or may not be a pile of beer that needs to dissappear today.</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:40:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">if you want to come, i can drive</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:40:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i was kicking myself for not pretending</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:40:53-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">but i had already told her i wasn&apos;t him</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:40:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so i had ruined my chances</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:41:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">haha i&apos;m in sea26</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:41:56-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">yee beer bash</span></div></message>
+<message sender="mabb" time="2011-05-27T15:42:31-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">calvinl: 4th floor. Apparently, the fridge is full of it, and it&apos;ll be thrown out </span></div></message>
+<message sender="mabb" time="2011-05-27T15:42:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">come around 5pm, we&apos;ll take it all</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:42:49-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb: we&apos;re having our own beer bash on 3rd floor at 4pm</span></div></message>
+<message sender="mattw" time="2011-05-27T15:42:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we had a transportation beer bash yesterday</span></div></message>
+<message sender="mattw" time="2011-05-27T15:43:07-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i wonder if there is still beer in the fridge</span></div></message>
+<message sender="mabb" time="2011-05-27T15:43:09-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we have beer bashes every other friday. This is not one of them. </span></div></message>
+<message sender="calvinl" time="2011-05-27T15:43:28-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we were supposed to have one every friday, but we had a sevone yesterday</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:43:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">so no reward for us</span></div></message>
+<message sender="mattw" time="2011-05-27T15:43:45-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">we had 15 sev2s yesterday</span></div></message>
+<message sender="mattw" time="2011-05-27T15:43:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">it was fun</span></div></message>
+<message sender="mattw" time="2011-05-27T15:43:52-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">all the Uks fault</span></div></message>
+<message sender="calvinl" time="2011-05-27T15:45:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">imma go steal a beer right now</span></div></message>
+<message sender="mabb" time="2011-05-27T15:46:06-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh shit, I think a nerf war is breaking out near me...</span></div></message>
+<message sender="ishan" time="2011-05-27T15:47:03-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">why the hell does nothing like this go on in sea27</span></div></message>
+<message sender="mabb" time="2011-05-27T15:47:13-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">not cool enough</span></div></message>
+<message sender="andrzli" time="2011-05-27T15:47:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">i left my nerf guns at home ;_;</span></div></message>
+<message sender="mabb" time="2011-05-27T15:47:57-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">the guy in the desk beside me has one of these beside his desk at all times: <a href="http://www.amazon.com/Nerf-N-Strike-Raider-Rapid-Blaster/dp/B003H9MSO2/">http://www.amazon.com/Nerf-N-Strike-Raider-Rapid-Blaster/dp/B003H9MSO2/</a></span></div></message>
+<message sender="mabb" time="2011-05-27T15:48:01-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I asked why, he said &quot;Just in case&quot;</span></div></message>
+<message sender="mabb" time="2011-05-27T15:48:12-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">I dont know what that means, but I&apos;m glad I&apos;m on his side</span></div></message>
+<message sender="jakemc" time="2011-05-27T15:49:44-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">was the sev1 that japanese one?</span></div></message>
+<message sender="mabb" time="2011-05-27T15:53:30-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">oh god, he handed me a sniper rifle, and gave me ammo. It has a red laser dot.</span></div></message>
+<status type="purple" time="2011-05-27T15:54:58-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">harshalb left the room (quit: Ping timeout: 258 seconds).</span></div></status>
+<status type="purple" time="2011-05-27T16:01:17-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">joshstew [<span style="font-style: italic;">joshstew@sea31-ws-svc-lb11-vlan2.amazon.com</span>] entered the room.</span></div></status>
+<message sender="calvinl" time="2011-05-27T16:01:38-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jakemc yeah sev1 = japanese dropped order</span></div></message>
+<message sender="calvinl" time="2011-05-27T16:01:51-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">mabb if you&apos;re gonna participate, you&apos;re liable to be SHOT at</span></div></message>
+<message sender="xiaoshan" time="2011-05-27T16:01:59-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">another earthquake?</span></div></message>
+<status type="disconnected" sender="yicui" time="2011-05-27T16:02:35-07:00" alias="yicui1"><div>You have disconnected</div></status>
+<status type="connected" time="2011-05-27T17:46:33-07:00"><div>You have connected</div></status>
+<status type="purple" time="2011-05-27T17:46:33-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">The topic for <a href="irc://irc.amazon.com:6667/#intern">#intern</a> is: Welcome Summer Interns.. to the end of productivity.   +op to gain Operator access.  For IRC help, see <a href="https://w?Irc">https://w?Irc</a></span></div></status>
+<status type="purple" time="2011-05-27T17:47:32-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">alga left the room (quit: Quit: Leaving).</span></div></status>
+<status type="purple" time="2011-05-27T17:47:46-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jobrie left the room (quit: Remote host closed the connection).</span></div></status>
+<status type="purple" time="2011-05-27T17:50:43-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">jfong left the room (quit: Remote host closed the connection).</span></div></status>
+<status type="purple" time="2011-05-27T17:56:50-07:00"><div><span style="font-family: Helvetica; font-size: 12pt;">parobert left the room (quit: Quit: parobert Signing off).</span></div></status></chat>

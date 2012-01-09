@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/opt/javalibs/apache-opennlp-1.5.1-incubating/lib/jwnl-1.3.3.jar"/>
+	<classpathentry kind="lib" path="/opt/javalibs/apache-opennlp-1.5.1-incubating/lib/opennlp-maxent-3.0.1-incubating.jar"/>
+	<classpathentry kind="lib" path="/opt/javalibs/apache-opennlp-1.5.1-incubating/lib/opennlp-tools-1.5.1-incubating.jar"/>
+	<classpathentry kind="lib" path="/opt/javalibs/joda-time-2.0/joda-time-2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/opt/javalibs/joda-time-2.0/joda-time-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="/opt/javalibs/joda-time-2.0/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

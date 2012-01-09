@@ -1,0 +1,257 @@
+% Weka ARFF file
+% Generated automatically by NLTK
+% Wed Jan  4 01:42:31 2012
+
+@RELATION rel
+
+@ATTRIBUTE 'begins(:)'                    NUMERIC
+@ATTRIBUTE 'begins(CC)'                   NUMERIC
+@ATTRIBUTE 'begins(CD)'                   NUMERIC
+@ATTRIBUTE 'begins(DT)'                   NUMERIC
+@ATTRIBUTE 'begins(EX)'                   NUMERIC
+@ATTRIBUTE 'begins(IN)'                   NUMERIC
+@ATTRIBUTE 'begins(NN)'                   NUMERIC
+@ATTRIBUTE 'begins(NNS)'                  NUMERIC
+@ATTRIBUTE 'begins(PRP$)'                 NUMERIC
+@ATTRIBUTE 'begins(PRP)'                  NUMERIC
+@ATTRIBUTE 'begins(RB)'                   NUMERIC
+@ATTRIBUTE 'begins(VBP)'                  NUMERIC
+@ATTRIBUTE 'begins(VBZ)'                  NUMERIC
+@ATTRIBUTE 'bigram(,-CD)'                 NUMERIC
+@ATTRIBUTE 'bigram(,-JJ)'                 NUMERIC
+@ATTRIBUTE 'bigram(,-NN)'                 NUMERIC
+@ATTRIBUTE 'bigram(.-CD)'                 NUMERIC
+@ATTRIBUTE 'bigram(:-IN)'                 NUMERIC
+@ATTRIBUTE 'bigram(:-NNP)'                NUMERIC
+@ATTRIBUTE 'bigram(:-``)'                 NUMERIC
+@ATTRIBUTE 'bigram(CC-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(CC-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(CC-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(CD-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(CD-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(CD-CC)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-VBN)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(EX-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-PRP$)'              NUMERIC
+@ATTRIBUTE 'bigram(IN-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(JJ-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(JJ-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(MD-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(NN-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(NN-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-POS)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-PRP$)'              NUMERIC
+@ATTRIBUTE 'bigram(NN-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-VBD)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-WDT)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-``)'                NUMERIC
+@ATTRIBUTE 'bigram(NNP-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-NNP)'              NUMERIC
+@ATTRIBUTE 'bigram(NNP-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-VBD)'              NUMERIC
+@ATTRIBUTE 'bigram(NNS-VBG)'              NUMERIC
+@ATTRIBUTE 'bigram(NNS-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(NNS-WDT)'              NUMERIC
+@ATTRIBUTE 'bigram(POS-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP$-NN)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP$-NNS)'             NUMERIC
+@ATTRIBUTE 'bigram(PRP-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-MD)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-VB)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-VBD)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP-VBZ)'              NUMERIC
+@ATTRIBUTE 'bigram(RB-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(RB-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-VBN)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-VBP)'               NUMERIC
+@ATTRIBUTE 'bigram(RP-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(RP-TO)'                NUMERIC
+@ATTRIBUTE 'bigram(TO-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(TO-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(TO-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-TO)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-WP)'                NUMERIC
+@ATTRIBUTE 'bigram(VBD-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-RP)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(VBG-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBG-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBN-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBN-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBN-RP)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-NNP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBP-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBP-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-RP)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-VBN)'              NUMERIC
+@ATTRIBUTE 'bigram(VBZ-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-VBG)'              NUMERIC
+@ATTRIBUTE 'bigram(WDT-.)'                NUMERIC
+@ATTRIBUTE 'bigram(WDT-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(WDT-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(WP-IN)'                NUMERIC
+@ATTRIBUTE 'contains(..)'                 NUMERIC
+@ATTRIBUTE 'contains(?)'                  NUMERIC
+@ATTRIBUTE 'ends(:)'                      NUMERIC
+@ATTRIBUTE 'ends(CD)'                     NUMERIC
+@ATTRIBUTE 'ends(IN)'                     NUMERIC
+@ATTRIBUTE 'ends(JJ)'                     NUMERIC
+@ATTRIBUTE 'ends(NN)'                     NUMERIC
+@ATTRIBUTE 'ends(NNP)'                    NUMERIC
+@ATTRIBUTE 'ends(NNS)'                    NUMERIC
+@ATTRIBUTE 'ends(PRP)'                    NUMERIC
+@ATTRIBUTE 'ends(RB)'                     NUMERIC
+@ATTRIBUTE 'ends(RP)'                     NUMERIC
+@ATTRIBUTE 'ends(TO)'                     NUMERIC
+@ATTRIBUTE 'ends(VBP)'                    NUMERIC
+@ATTRIBUTE 'ends(VBZ)'                    NUMERIC
+@ATTRIBUTE 'ends(``)'                     NUMERIC
+@ATTRIBUTE 'unigram(,)'                   NUMERIC
+@ATTRIBUTE 'unigram(.)'                   NUMERIC
+@ATTRIBUTE 'unigram(:)'                   NUMERIC
+@ATTRIBUTE 'unigram(CC)'                  NUMERIC
+@ATTRIBUTE 'unigram(CD)'                  NUMERIC
+@ATTRIBUTE 'unigram(DT)'                  NUMERIC
+@ATTRIBUTE 'unigram(EX)'                  NUMERIC
+@ATTRIBUTE 'unigram(IN)'                  NUMERIC
+@ATTRIBUTE 'unigram(JJ)'                  NUMERIC
+@ATTRIBUTE 'unigram(MD)'                  NUMERIC
+@ATTRIBUTE 'unigram(NN)'                  NUMERIC
+@ATTRIBUTE 'unigram(NNP)'                 NUMERIC
+@ATTRIBUTE 'unigram(NNS)'                 NUMERIC
+@ATTRIBUTE 'unigram(POS)'                 NUMERIC
+@ATTRIBUTE 'unigram(PRP$)'                NUMERIC
+@ATTRIBUTE 'unigram(PRP)'                 NUMERIC
+@ATTRIBUTE 'unigram(RB)'                  NUMERIC
+@ATTRIBUTE 'unigram(RP)'                  NUMERIC
+@ATTRIBUTE 'unigram(TO)'                  NUMERIC
+@ATTRIBUTE 'unigram(VB)'                  NUMERIC
+@ATTRIBUTE 'unigram(VBD)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBG)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBN)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBP)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBZ)'                 NUMERIC
+@ATTRIBUTE 'unigram(WDT)'                 NUMERIC
+@ATTRIBUTE 'unigram(WP)'                  NUMERIC
+@ATTRIBUTE 'unigram(``)'                  NUMERIC
+@ATTRIBUTE '-label-'                      {Emotion,ynQuestion,yAnswer,Continuer,whQuestion,Accept,Greet,Statement,Reject,Bye}
+
+
+@DATA
+{ 10 1, 32 1, 39 1, 56 1, 96 1, 115 1, 125 1, 141 1, 156 1, 158 1, 161 2, 167 1, 173 1, 174 1, 179 'Statement'}
+{ 0 1, 18 1, 142 1, 153 1, 162 1, 179 'Emotion'}
+{ 9 1, 87 1, 148 1, 166 1, 174 1, 179 'Greet'}
+{ 6 1, 62 1, 145 1, 161 1, 167 1, 179 'Statement'}
+{ 2 1, 28 1, 32 1, 56 1, 127 1, 141 1, 155 1, 156 1, 161 2, 175 1, 179 'Accept'}
+{ 0 1, 19 1, 150 1, 153 1, 178 1, 179 'Emotion'}
+{ 6 1, 53 1, 138 1, 155 1, 161 1, 179 'Greet'}
+{ 2 1, 26 1, 47 1, 56 2, 58 1, 61 1, 77 1, 118 1, 133 1, 144 1, 155 1, 159 1, 161 4, 163 1, 166 1, 174 1, 176 1, 179 'Statement'}
+{ 4 1, 37 1, 53 1, 56 1, 138 1, 155 1, 157 1, 161 2, 179 'Statement'}
+{ 11 1, 61 1, 94 1, 105 1, 122 1, 144 1, 161 1, 166 1, 167 1, 170 1, 174 1, 179 'Reject'}
+{ 6 1, 17 1, 24 1, 61 1, 81 1, 139 1, 153 1, 155 1, 158 1, 161 1, 166 1, 179 'Reject'}
+{ 7 1, 76 1, 98 1, 123 1, 136 1, 147 1, 163 1, 168 1, 169 1, 174 1, 179 'whQuestion'}
+{ 9 1, 50 1, 60 1, 79 1, 84 1, 105 1, 141 1, 160 1, 161 2, 165 1, 166 1, 170 1, 179 'Statement'}
+{ 1 1, 22 1, 45 1, 87 1, 94 1, 107 1, 122 1, 134 1, 149 1, 154 1, 158 1, 166 1, 167 1, 170 1, 174 1, 175 1, 177 1, 179 'Continuer'}
+{ 3 1, 36 1, 128 1, 140 1, 156 1, 159 1, 175 1, 179 'Statement'}
+{ 3 1, 16 1, 26 1, 32 1, 56 2, 65 1, 131 1, 136 1, 141 1, 152 1, 155 1, 156 1, 161 4, 176 1, 179 'ynQuestion'}
+{ 2 1, 138 1, 179 'Statement'}
+{ 8 1, 35 1, 43 1, 46 1, 63 1, 79 2, 97 1, 108 1, 117 1, 141 1, 156 1, 158 1, 159 1, 161 2, 165 2, 168 1, 171 1, 173 1, 179 'Statement'}
+{ 2 1, 138 1, 179 'Statement'}
+{ 10 1, 145 1, 179 'Emotion'}
+{ 2 1, 21 1, 25 1, 140 1, 154 1, 155 1, 159 1, 179 'Statement'}
+{ 6 1, 53 1, 138 1, 155 1, 161 1, 179 'Emotion'}
+{ 10 1, 145 1, 179 'Emotion'}
+{ 9 1, 32 1, 42 1, 55 1, 76 1, 86 1, 108 1, 148 1, 156 1, 158 1, 161 1, 163 1, 166 1, 171 1, 174 1, 179 'Statement'}
+{ 10 1, 145 1, 179 'Emotion'}
+{ 6 1, 32 1, 54 1, 61 1, 86 1, 110 1, 141 1, 156 1, 161 3, 166 1, 171 1, 179 'Statement'}
+{ 6 1, 56 1, 141 1, 161 2, 179 'Emotion'}
+{ 1 1, 20 1, 32 1, 43 1, 55 1, 80 1, 143 1, 154 1, 156 1, 158 1, 161 1, 163 1, 165 1, 179 'Continuer'}
+{ 7 1, 74 1, 100 1, 112 1, 144 1, 163 1, 166 1, 169 1, 171 1, 179 'Accept'}
+{ 6 1, 63 1, 109 1, 140 1, 159 1, 161 1, 171 1, 179 'ynQuestion'}
+{ 9 1, 15 1, 23 1, 50 1, 84 1, 102 1, 141 1, 151 1, 155 1, 160 1, 161 1, 166 1, 170 1, 179 'Statement'}
+{ 1 1, 22 1, 34 1, 73 1, 87 1, 99 1, 101 1, 106 1, 124 1, 141 1, 154 1, 156 1, 161 1, 163 1, 166 1, 169 2, 170 1, 174 1, 179 'Statement'}
+{ 6 1, 56 1, 141 1, 161 2, 179 'Accept'}
+{ 9 1, 57 2, 68 2, 69 13, 70 1, 87 1, 91 1, 120 1, 135 1, 142 1, 161 2, 162 17, 166 1, 167 1, 174 1, 179 'Statement'}
+{ 6 1, 66 1, 150 1, 161 1, 178 1, 179 'Emotion'}
+{ 11 1, 32 1, 85 1, 92 1, 103 1, 122 1, 136 1, 141 1, 156 1, 161 1, 166 1, 167 1, 170 1, 174 1, 179 'ynQuestion'}
+{ 2 1, 138 1, 179 'Statement'}
+{ 9 1, 87 1, 90 1, 122 1, 138 1, 155 1, 166 1, 167 1, 174 1, 179 'Statement'}
+{ 2 1, 138 1, 179 'Statement'}
+{ 6 1, 141 1, 179 'Accept'}
+{ 2 1, 138 1, 179 'Statement'}
+{ 3 1, 34 1, 38 1, 65 1, 76 1, 119 1, 132 1, 138 1, 155 1, 156 1, 158 1, 161 1, 163 1, 174 1, 176 1, 179 'ynQuestion'}
+{ 6 1, 58 1, 143 1, 161 1, 163 1, 179 'Statement'}
+{ 10 1, 90 1, 95 1, 116 1, 138 1, 155 1, 167 2, 173 1, 179 'Statement'}
+{ 3 1, 30 1, 32 3, 54 1, 61 1, 86 1, 108 1, 135 1, 141 1, 156 4, 161 3, 166 1, 171 1, 179 'Statement'}
+{ 10 1, 14 1, 48 1, 86 1, 89 1, 111 1, 146 1, 151 1, 159 1, 166 1, 167 1, 168 1, 171 1, 179 'Statement'}
+{ 8 1, 64 1, 79 1, 93 1, 129 1, 145 1, 161 1, 165 1, 167 2, 175 1, 179 'Statement'}
+{ 6 1, 41 1, 44 1, 55 1, 67 1, 136 1, 145 1, 158 2, 161 1, 162 1, 167 1, 179 'ynQuestion'}
+{ 9 1, 88 1, 149 1, 166 1, 175 1, 179 'Greet'}
+{ 5 1, 40 1, 61 1, 144 1, 158 1, 161 1, 166 1, 179 'Accept'}
+{ 12 1, 27 1, 93 1, 126 1, 145 1, 155 1, 167 2, 175 1, 179 'ynQuestion'}
+{ 9 1, 144 1, 179 'Greet'}
+{ 2 1, 28 1, 33 1, 43 1, 67 1, 79 1, 113 1, 130 1, 141 1, 155 1, 156 1, 158 1, 161 1, 162 1, 165 1, 172 1, 175 1, 179 'Statement'}
+{ 1 1, 22 1, 42 1, 49 1, 75 1, 87 1, 93 1, 94 1, 104 1, 114 1, 122 1, 145 1, 154 1, 158 1, 159 1, 163 1, 166 1, 167 3, 170 1, 172 1, 174 1, 179 'Continuer'}
+{ 6 1, 141 1, 179 'Accept'}
+{ 7 1, 71 1, 138 1, 155 1, 163 1, 179 'yAnswer'}
+{ 6 1, 61 1, 83 1, 139 1, 158 1, 161 1, 166 1, 179 'Statement'}
+{ 3 1, 34 1, 41 1, 44 1, 67 1, 72 1, 136 1, 145 1, 156 1, 158 2, 162 1, 163 1, 167 1, 179 'ynQuestion'}
+{ 1 1, 20 1, 30 1, 32 1, 52 1, 56 1, 137 1, 153 1, 154 1, 156 2, 161 2, 179 'Statement'}
+{ 6 1, 13 1, 51 1, 138 1, 151 1, 155 1, 161 1, 179 'Greet'}
+{ 1 1, 20 1, 26 1, 29 1, 52 1, 137 1, 153 1, 154 1, 155 1, 156 1, 161 1, 179 'Continuer'}
+{ 11 1, 31 1, 82 1, 121 1, 136 1, 140 1, 156 1, 159 1, 166 1, 174 1, 179 'ynQuestion'}
+{ 6 1, 59 1, 78 1, 141 1, 161 2, 164 1, 179 'Statement'}
+{ 0 1, 19 1, 150 1, 153 1, 178 1, 179 'Emotion'}
+{ 6 1, 141 1, 179 'Emotion'}
+{ 6 1, 141 1, 179 'Bye'}
+{ 7 1, 143 1, 179 'Emotion'}
+

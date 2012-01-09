@@ -1,0 +1,577 @@
+% Weka ARFF file
+% Generated automatically by NLTK
+% Fri Jan  6 20:21:40 2012
+
+@RELATION rel
+
+@ATTRIBUTE 'begins(:)'                    NUMERIC
+@ATTRIBUTE 'begins(CC)'                   NUMERIC
+@ATTRIBUTE 'begins(CD)'                   NUMERIC
+@ATTRIBUTE 'begins(DT)'                   NUMERIC
+@ATTRIBUTE 'begins(EX)'                   NUMERIC
+@ATTRIBUTE 'begins(IN)'                   NUMERIC
+@ATTRIBUTE 'begins(JJ)'                   NUMERIC
+@ATTRIBUTE 'begins(MD)'                   NUMERIC
+@ATTRIBUTE 'begins(NN)'                   NUMERIC
+@ATTRIBUTE 'begins(NNP)'                  NUMERIC
+@ATTRIBUTE 'begins(NNS)'                  NUMERIC
+@ATTRIBUTE 'begins(POS)'                  NUMERIC
+@ATTRIBUTE 'begins(PRP$)'                 NUMERIC
+@ATTRIBUTE 'begins(PRP)'                  NUMERIC
+@ATTRIBUTE 'begins(RB)'                   NUMERIC
+@ATTRIBUTE 'begins(VB)'                   NUMERIC
+@ATTRIBUTE 'begins(VBD)'                  NUMERIC
+@ATTRIBUTE 'begins(VBP)'                  NUMERIC
+@ATTRIBUTE 'begins(VBZ)'                  NUMERIC
+@ATTRIBUTE 'begins(WP)'                   NUMERIC
+@ATTRIBUTE 'begins(WRB)'                  NUMERIC
+@ATTRIBUTE "bigram(''-,)"                 NUMERIC
+@ATTRIBUTE 'bigram(,-CC)'                 NUMERIC
+@ATTRIBUTE 'bigram(,-CD)'                 NUMERIC
+@ATTRIBUTE 'bigram(,-JJ)'                 NUMERIC
+@ATTRIBUTE 'bigram(,-NN)'                 NUMERIC
+@ATTRIBUTE 'bigram(,-PRP)'                NUMERIC
+@ATTRIBUTE 'bigram(,-VBP)'                NUMERIC
+@ATTRIBUTE 'bigram(,-WRB)'                NUMERIC
+@ATTRIBUTE "bigram(-NONE--'')"            NUMERIC
+@ATTRIBUTE 'bigram(.-.)'                  NUMERIC
+@ATTRIBUTE 'bigram(.-:)'                  NUMERIC
+@ATTRIBUTE 'bigram(.-CD)'                 NUMERIC
+@ATTRIBUTE 'bigram(.-NN)'                 NUMERIC
+@ATTRIBUTE 'bigram(.-NNS)'                NUMERIC
+@ATTRIBUTE 'bigram(:-:)'                  NUMERIC
+@ATTRIBUTE 'bigram(:-CC)'                 NUMERIC
+@ATTRIBUTE 'bigram(:-IN)'                 NUMERIC
+@ATTRIBUTE 'bigram(:-NN)'                 NUMERIC
+@ATTRIBUTE 'bigram(:-NNP)'                NUMERIC
+@ATTRIBUTE 'bigram(:-NNS)'                NUMERIC
+@ATTRIBUTE 'bigram(:-PRP)'                NUMERIC
+@ATTRIBUTE 'bigram(:-RB)'                 NUMERIC
+@ATTRIBUTE 'bigram(:-VBD)'                NUMERIC
+@ATTRIBUTE 'bigram(:-``)'                 NUMERIC
+@ATTRIBUTE 'bigram(CC-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(CC-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(CC-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(CC-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(CC-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(CC-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(CD-.)'                 NUMERIC
+@ATTRIBUTE 'bigram(CD-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(CD-CC)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-POS)'               NUMERIC
+@ATTRIBUTE 'bigram(CD-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-VBP)'               NUMERIC
+@ATTRIBUTE 'bigram(CD-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(CD-WP)'                NUMERIC
+@ATTRIBUTE 'bigram(CD-WRB)'               NUMERIC
+@ATTRIBUTE 'bigram(CD-``)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(DT-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-RBS)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-VBN)'               NUMERIC
+@ATTRIBUTE 'bigram(DT-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(EX-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(EX-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(IN-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-PRP$)'              NUMERIC
+@ATTRIBUTE 'bigram(IN-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(IN-VBN)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(IN-WP)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(JJ-.)'                 NUMERIC
+@ATTRIBUTE 'bigram(JJ-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(JJ-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(JJ-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(JJ-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(JJ-TO)'                NUMERIC
+@ATTRIBUTE 'bigram(MD-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(MD-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(MD-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(MD-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(NN--NONE-)'            NUMERIC
+@ATTRIBUTE 'bigram(NN-.)'                 NUMERIC
+@ATTRIBUTE 'bigram(NN-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(NN-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-EX)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-MD)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-POS)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-PRP$)'              NUMERIC
+@ATTRIBUTE 'bigram(NN-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-RP)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-TO)'                NUMERIC
+@ATTRIBUTE 'bigram(NN-VBD)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-WDT)'               NUMERIC
+@ATTRIBUTE 'bigram(NN-``)'                NUMERIC
+@ATTRIBUTE 'bigram(NNP-.)'                NUMERIC
+@ATTRIBUTE 'bigram(NNP-:)'                NUMERIC
+@ATTRIBUTE 'bigram(NNP-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-NNP)'              NUMERIC
+@ATTRIBUTE 'bigram(NNP-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(NNP-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(NNP-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-,)'                NUMERIC
+@ATTRIBUTE 'bigram(NNS-.)'                NUMERIC
+@ATTRIBUTE 'bigram(NNS-:)'                NUMERIC
+@ATTRIBUTE 'bigram(NNS-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(NNS-VBD)'              NUMERIC
+@ATTRIBUTE 'bigram(NNS-VBG)'              NUMERIC
+@ATTRIBUTE 'bigram(NNS-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(NNS-WDT)'              NUMERIC
+@ATTRIBUTE 'bigram(POS-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(POS-NNP)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP$-:)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP$-NN)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP$-NNP)'             NUMERIC
+@ATTRIBUTE 'bigram(PRP$-NNS)'             NUMERIC
+@ATTRIBUTE 'bigram(PRP-,)'                NUMERIC
+@ATTRIBUTE 'bigram(PRP--NONE-)'           NUMERIC
+@ATTRIBUTE 'bigram(PRP-.)'                NUMERIC
+@ATTRIBUTE 'bigram(PRP-:)'                NUMERIC
+@ATTRIBUTE 'bigram(PRP-CC)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-MD)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-VB)'               NUMERIC
+@ATTRIBUTE 'bigram(PRP-VBD)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP-VBZ)'              NUMERIC
+@ATTRIBUTE 'bigram(PRP-WRB)'              NUMERIC
+@ATTRIBUTE 'bigram(RB-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(RB-.)'                 NUMERIC
+@ATTRIBUTE 'bigram(RB-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(RB-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-EX)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-NNP)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-RB)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-RBR)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(RB-VBD)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-VBG)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-VBN)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-VBP)'               NUMERIC
+@ATTRIBUTE 'bigram(RB-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(RBR-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(RP-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(RP-TO)'                NUMERIC
+@ATTRIBUTE 'bigram(TO-:)'                 NUMERIC
+@ATTRIBUTE 'bigram(TO-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(TO-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(TO-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(TO-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(TO-VB)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-CD)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-DT)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-NNS)'               NUMERIC
+@ATTRIBUTE 'bigram(VB-PRP$)'              NUMERIC
+@ATTRIBUTE 'bigram(VB-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(VB-TO)'                NUMERIC
+@ATTRIBUTE 'bigram(VB-WP)'                NUMERIC
+@ATTRIBUTE 'bigram(VBD-,)'                NUMERIC
+@ATTRIBUTE 'bigram(VBD-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBD-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-RP)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(VBD-WP)'               NUMERIC
+@ATTRIBUTE 'bigram(VBG-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBG-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBG-PRP$)'             NUMERIC
+@ATTRIBUTE 'bigram(VBG-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBG-VBG)'              NUMERIC
+@ATTRIBUTE 'bigram(VBN-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBN-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBN-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBN-RP)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-NNS)'              NUMERIC
+@ATTRIBUTE 'bigram(VBP-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBP-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-TO)'               NUMERIC
+@ATTRIBUTE 'bigram(VBP-VBG)'              NUMERIC
+@ATTRIBUTE 'bigram(VBP-VBN)'              NUMERIC
+@ATTRIBUTE 'bigram(VBZ-CC)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-CD)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-DT)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-NN)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-PRP$)'             NUMERIC
+@ATTRIBUTE 'bigram(VBZ-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(VBZ-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(VBZ-VBG)'              NUMERIC
+@ATTRIBUTE 'bigram(VBZ-VBN)'              NUMERIC
+@ATTRIBUTE 'bigram(VBZ-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(WDT-.)'                NUMERIC
+@ATTRIBUTE 'bigram(WDT-IN)'               NUMERIC
+@ATTRIBUTE 'bigram(WDT-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(WP-,)'                 NUMERIC
+@ATTRIBUTE 'bigram(WP-IN)'                NUMERIC
+@ATTRIBUTE 'bigram(WP-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(WP-NN)'                NUMERIC
+@ATTRIBUTE 'bigram(WP-PRP)'               NUMERIC
+@ATTRIBUTE 'bigram(WP-VBD)'               NUMERIC
+@ATTRIBUTE 'bigram(WP-VBZ)'               NUMERIC
+@ATTRIBUTE 'bigram(WRB-JJ)'               NUMERIC
+@ATTRIBUTE 'bigram(WRB-PRP$)'             NUMERIC
+@ATTRIBUTE 'bigram(WRB-PRP)'              NUMERIC
+@ATTRIBUTE 'bigram(WRB-RB)'               NUMERIC
+@ATTRIBUTE 'bigram(WRB-VBD)'              NUMERIC
+@ATTRIBUTE 'bigram(WRB-VBP)'              NUMERIC
+@ATTRIBUTE 'bigram(``-.)'                 NUMERIC
+@ATTRIBUTE 'bigram(``-JJ)'                NUMERIC
+@ATTRIBUTE 'bigram(``-NN)'                NUMERIC
+@ATTRIBUTE 'contains(*)'                  NUMERIC
+@ATTRIBUTE 'contains(..)'                 NUMERIC
+@ATTRIBUTE 'contains(?)'                  NUMERIC
+@ATTRIBUTE 'contains(any)'                NUMERIC
+@ATTRIBUTE 'contains(brb)'                NUMERIC
+@ATTRIBUTE 'contains(bye)'                NUMERIC
+@ATTRIBUTE 'contains(cya)'                NUMERIC
+@ATTRIBUTE 'contains(hey)'                NUMERIC
+@ATTRIBUTE 'contains(hi)'                 NUMERIC
+@ATTRIBUTE 'contains(later)'              NUMERIC
+@ATTRIBUTE 'contains(no)'                 NUMERIC
+@ATTRIBUTE 'contains(not)'                NUMERIC
+@ATTRIBUTE 'contains(ok)'                 NUMERIC
+@ATTRIBUTE 'contains(right)'              NUMERIC
+@ATTRIBUTE 'contains(up)'                 NUMERIC
+@ATTRIBUTE 'contains(ye)'                 NUMERIC
+@ATTRIBUTE 'contains(yo)'                 NUMERIC
+@ATTRIBUTE 'ends(-NONE-)'                 NUMERIC
+@ATTRIBUTE 'ends(.)'                      NUMERIC
+@ATTRIBUTE 'ends(:)'                      NUMERIC
+@ATTRIBUTE 'ends(CD)'                     NUMERIC
+@ATTRIBUTE 'ends(DT)'                     NUMERIC
+@ATTRIBUTE 'ends(EX)'                     NUMERIC
+@ATTRIBUTE 'ends(IN)'                     NUMERIC
+@ATTRIBUTE 'ends(JJ)'                     NUMERIC
+@ATTRIBUTE 'ends(NN)'                     NUMERIC
+@ATTRIBUTE 'ends(NNP)'                    NUMERIC
+@ATTRIBUTE 'ends(NNS)'                    NUMERIC
+@ATTRIBUTE 'ends(POS)'                    NUMERIC
+@ATTRIBUTE 'ends(PRP)'                    NUMERIC
+@ATTRIBUTE 'ends(RB)'                     NUMERIC
+@ATTRIBUTE 'ends(RBS)'                    NUMERIC
+@ATTRIBUTE 'ends(RP)'                     NUMERIC
+@ATTRIBUTE 'ends(TO)'                     NUMERIC
+@ATTRIBUTE 'ends(VB)'                     NUMERIC
+@ATTRIBUTE 'ends(VBD)'                    NUMERIC
+@ATTRIBUTE 'ends(VBN)'                    NUMERIC
+@ATTRIBUTE 'ends(VBP)'                    NUMERIC
+@ATTRIBUTE 'ends(VBZ)'                    NUMERIC
+@ATTRIBUTE 'ends(WDT)'                    NUMERIC
+@ATTRIBUTE 'ends(WP)'                     NUMERIC
+@ATTRIBUTE 'ends(``)'                     NUMERIC
+@ATTRIBUTE "unigram('')"                  NUMERIC
+@ATTRIBUTE 'unigram(,)'                   NUMERIC
+@ATTRIBUTE 'unigram(-NONE-)'              NUMERIC
+@ATTRIBUTE 'unigram(.)'                   NUMERIC
+@ATTRIBUTE 'unigram(:)'                   NUMERIC
+@ATTRIBUTE 'unigram(CC)'                  NUMERIC
+@ATTRIBUTE 'unigram(CD)'                  NUMERIC
+@ATTRIBUTE 'unigram(DT)'                  NUMERIC
+@ATTRIBUTE 'unigram(EX)'                  NUMERIC
+@ATTRIBUTE 'unigram(IN)'                  NUMERIC
+@ATTRIBUTE 'unigram(JJ)'                  NUMERIC
+@ATTRIBUTE 'unigram(MD)'                  NUMERIC
+@ATTRIBUTE 'unigram(NN)'                  NUMERIC
+@ATTRIBUTE 'unigram(NNP)'                 NUMERIC
+@ATTRIBUTE 'unigram(NNS)'                 NUMERIC
+@ATTRIBUTE 'unigram(POS)'                 NUMERIC
+@ATTRIBUTE 'unigram(PRP$)'                NUMERIC
+@ATTRIBUTE 'unigram(PRP)'                 NUMERIC
+@ATTRIBUTE 'unigram(RB)'                  NUMERIC
+@ATTRIBUTE 'unigram(RBR)'                 NUMERIC
+@ATTRIBUTE 'unigram(RBS)'                 NUMERIC
+@ATTRIBUTE 'unigram(RP)'                  NUMERIC
+@ATTRIBUTE 'unigram(TO)'                  NUMERIC
+@ATTRIBUTE 'unigram(VB)'                  NUMERIC
+@ATTRIBUTE 'unigram(VBD)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBG)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBN)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBP)'                 NUMERIC
+@ATTRIBUTE 'unigram(VBZ)'                 NUMERIC
+@ATTRIBUTE 'unigram(WDT)'                 NUMERIC
+@ATTRIBUTE 'unigram(WP)'                  NUMERIC
+@ATTRIBUTE 'unigram(WRB)'                 NUMERIC
+@ATTRIBUTE 'unigram(``)'                  NUMERIC
+@ATTRIBUTE '-label-'                      {Emotion,ynQuestion,yAnswer,Continuer,whQuestion,Accept,Clarify,Emphasis,Greet,Statement,Reject,Bye}
+
+
+@DATA
+{ 14 1, 67 1, 78 1, 115 1, 169 1, 181 1, 225 1, 239 1, 280 1, 295 1, 319 1, 321 1, 324 2, 329 1, 330 1, 338 1, 339 1, 345 'Statement'}
+{ 0 1, 39 1, 296 1, 316 1, 325 1, 345 'Emotion'}
+{ 13 1, 169 1, 277 1, 307 1, 329 1, 339 1, 345 'Greet'}
+{ 8 1, 121 1, 300 1, 324 1, 330 1, 345 'Statement'}
+{ 2 1, 60 1, 67 1, 115 1, 242 1, 295 1, 318 1, 319 1, 324 2, 340 1, 345 'Accept'}
+{ 0 1, 44 1, 311 1, 316 1, 344 1, 345 'Emotion'}
+{ 8 1, 109 1, 278 1, 290 1, 318 1, 324 1, 345 'Greet'}
+{ 2 1, 56 1, 96 1, 115 2, 117 1, 120 1, 149 1, 232 1, 253 1, 299 1, 318 1, 322 1, 324 4, 326 1, 329 1, 339 1, 341 1, 345 'Statement'}
+{ 4 1, 74 1, 109 1, 115 1, 290 1, 318 1, 320 1, 324 2, 345 'Statement'}
+{ 17 1, 120 1, 184 1, 203 1, 236 1, 281 1, 299 1, 324 1, 329 1, 330 1, 335 1, 339 1, 345 'Reject'}
+{ 8 1, 37 1, 53 1, 120 1, 161 1, 286 1, 293 1, 316 1, 318 1, 321 1, 324 1, 329 1, 345 'Reject'}
+{ 19 1, 192 1, 228 1, 249 1, 260 1, 272 1, 284 1, 303 1, 333 1, 334 1, 338 1, 340 1, 342 1, 345 'whQuestion'}
+{ 13 1, 104 1, 119 1, 153 1, 164 1, 203 1, 286 1, 295 1, 323 1, 324 2, 328 1, 329 1, 335 1, 345 'Statement'}
+{ 1 1, 49 1, 88 1, 169 1, 182 1, 184 1, 208 1, 236 1, 255 1, 281 1, 308 1, 317 1, 321 1, 329 1, 330 2, 335 1, 339 1, 340 1, 342 1, 345 'Continuer'}
+{ 3 1, 73 1, 243 1, 294 1, 319 1, 322 1, 340 1, 345 'Statement'}
+{ 3 1, 32 1, 56 1, 67 1, 115 2, 126 1, 251 1, 272 1, 273 1, 280 1, 295 1, 315 1, 318 1, 319 1, 324 4, 341 1, 345 'ynQuestion'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 12 1, 72 1, 84 1, 94 1, 124 1, 153 2, 191 1, 211 1, 228 1, 284 1, 295 1, 319 1, 321 1, 322 1, 324 2, 328 2, 333 1, 336 1, 338 1, 345 'Statement'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 14 1, 300 1, 345 'Emotion'}
+{ 2 1, 47 1, 54 1, 294 1, 317 1, 318 1, 322 1, 345 'Statement'}
+{ 8 1, 109 1, 290 1, 318 1, 324 1, 345 'Emotion'}
+{ 14 1, 300 1, 345 'Emotion'}
+{ 13 1, 67 1, 83 1, 112 1, 148 1, 168 1, 211 1, 307 1, 319 1, 321 1, 324 1, 326 1, 329 1, 336 1, 339 1, 345 'Statement'}
+{ 14 1, 300 1, 345 'Emotion'}
+{ 8 1, 67 1, 120 1, 168 1, 184 1, 200 1, 216 1, 281 1, 295 1, 319 1, 324 2, 329 1, 330 1, 335 1, 336 1, 345 'Statement'}
+{ 8 1, 115 1, 295 1, 324 2, 345 'Emotion'}
+{ 1 1, 45 1, 67 1, 84 1, 112 1, 155 1, 297 1, 317 1, 319 1, 321 1, 324 1, 326 1, 328 1, 345 'Continuer'}
+{ 10 1, 146 1, 197 1, 218 1, 299 1, 326 1, 329 1, 334 1, 336 1, 345 'Accept'}
+{ 8 1, 124 1, 213 1, 294 1, 322 1, 324 1, 336 1, 345 'ynQuestion'}
+{ 13 1, 25 1, 51 1, 104 1, 164 1, 199 1, 295 1, 313 1, 318 1, 323 1, 324 1, 329 1, 335 1, 345 'Statement'}
+{ 1 1, 49 1, 69 1, 143 1, 169 1, 195 1, 198 1, 207 1, 237 1, 295 1, 317 1, 319 1, 324 1, 326 1, 329 1, 334 2, 335 1, 339 1, 345 'Statement'}
+{ 8 1, 115 1, 295 1, 324 2, 345 'Accept'}
+{ 13 1, 35 9, 39 6, 40 1, 42 1, 120 1, 133 1, 135 2, 136 2, 137 1, 144 1, 159 5, 169 1, 174 3, 181 1, 186 1, 193 1, 223 1, 236 1, 271 1, 274 3, 286 1, 289 1, 316 18, 324 1, 325 6, 326 1, 329 6, 330 5, 334 1, 337 1, 339 1, 345 'Statement'}
+{ 8 1, 127 1, 311 1, 324 1, 344 1, 345 'Emotion'}
+{ 17 1, 67 1, 167 1, 181 1, 200 1, 236 1, 272 1, 281 1, 286 1, 295 1, 319 1, 324 1, 329 1, 330 1, 335 1, 339 1, 345 'ynQuestion'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 13 1, 169 1, 175 1, 236 1, 286 1, 290 1, 318 1, 329 1, 330 1, 339 1, 345 'Statement'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Accept'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 3 1, 69 1, 77 1, 126 1, 148 1, 233 1, 252 1, 273 1, 280 1, 290 1, 318 1, 319 1, 321 1, 324 1, 326 1, 339 1, 341 1, 345 'ynQuestion'}
+{ 8 1, 117 1, 297 1, 324 1, 326 1, 345 'Statement'}
+{ 14 1, 175 1, 187 1, 227 1, 281 1, 290 1, 318 1, 330 2, 338 1, 345 'Statement'}
+{ 3 1, 38 1, 65 1, 66 1, 67 2, 92 1, 110 1, 120 1, 168 1, 211 1, 271 1, 295 1, 316 1, 319 4, 322 1, 324 3, 329 1, 336 1, 345 'Statement'}
+{ 14 1, 24 1, 98 1, 168 1, 172 1, 217 1, 302 1, 313 1, 322 1, 329 1, 330 1, 333 1, 336 1, 345 'Statement'}
+{ 12 1, 125 1, 153 1, 182 1, 247 1, 300 1, 324 1, 328 1, 330 2, 340 1, 345 'Statement'}
+{ 8 1, 82 1, 86 1, 112 1, 132 1, 272 1, 273 1, 300 1, 321 2, 324 1, 325 1, 330 1, 345 'ynQuestion'}
+{ 13 1, 170 1, 277 1, 308 1, 329 1, 340 1, 345 'Greet'}
+{ 5 1, 81 1, 120 1, 299 1, 321 1, 324 1, 329 1, 345 'Accept'}
+{ 18 1, 58 1, 182 1, 241 1, 300 1, 318 1, 330 2, 340 1, 345 'ynQuestion'}
+{ 13 1, 299 1, 345 'Greet'}
+{ 2 1, 60 1, 68 1, 84 1, 132 1, 153 1, 220 1, 248 1, 295 1, 318 1, 319 1, 321 1, 324 1, 325 1, 328 1, 337 1, 340 1, 345 'Statement'}
+{ 1 1, 49 1, 83 1, 99 1, 147 1, 169 1, 182 1, 184 1, 201 1, 221 1, 236 1, 281 1, 300 1, 317 1, 321 1, 322 1, 326 1, 329 1, 330 3, 335 1, 337 1, 339 1, 345 'Continuer'}
+{ 8 1, 295 1, 345 'Accept'}
+{ 10 1, 141 1, 285 1, 290 1, 318 1, 326 1, 345 'yAnswer'}
+{ 8 1, 120 1, 163 1, 293 1, 321 1, 324 1, 329 1, 345 'Statement'}
+{ 3 1, 69 1, 82 1, 86 1, 132 1, 142 1, 272 1, 273 1, 280 1, 300 1, 319 1, 321 2, 325 1, 326 1, 330 1, 345 'ynQuestion'}
+{ 1 1, 45 1, 65 1, 67 1, 108 1, 115 1, 289 1, 316 1, 317 1, 319 2, 324 2, 345 'Statement'}
+{ 8 1, 23 1, 105 1, 286 1, 290 1, 313 1, 318 1, 324 1, 345 'Greet'}
+{ 1 1, 45 1, 56 1, 64 1, 108 1, 289 1, 316 1, 317 1, 318 1, 319 1, 324 1, 345 'Continuer'}
+{ 17 1, 66 1, 162 1, 235 1, 272 1, 286 1, 294 1, 319 1, 322 1, 329 1, 339 1, 345 'ynQuestion'}
+{ 8 1, 118 1, 150 1, 295 1, 324 2, 327 1, 345 'Statement'}
+{ 0 1, 44 1, 311 1, 316 1, 344 1, 345 'Emotion'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 8 1, 295 1, 345 'Bye'}
+{ 10 1, 297 1, 345 'Emotion'}
+{ 8 1, 106 1, 270 1, 287 1, 314 1, 324 1, 345 'Clarify'}
+{ 13 1, 69 1, 83 1, 115 1, 142 1, 148 1, 162 1, 233 1, 272 1, 273 1, 277 1, 280 1, 295 1, 319 1, 321 1, 324 2, 326 2, 329 1, 339 1, 345 'ynQuestion'}
+{ 3 1, 67 1, 115 2, 126 1, 273 1, 280 1, 309 1, 319 1, 324 3, 341 1, 345 'ynQuestion'}
+{ 8 1, 111 1, 278 1, 292 1, 320 1, 324 1, 345 'Greet'}
+{ 14 1, 26 1, 66 1, 170 1, 172 1, 242 1, 294 1, 313 1, 319 1, 322 1, 329 1, 330 1, 340 1, 345 'Statement'}
+{ 13 1, 161 1, 277 1, 290 1, 318 1, 329 1, 345 'Greet'}
+{ 13 1, 169 1, 236 1, 300 1, 329 1, 330 1, 339 1, 345 'Statement'}
+{ 2 1, 56 1, 115 3, 295 1, 318 1, 324 4, 345 'Statement'}
+{ 20 1, 115 1, 214 1, 265 1, 272 1, 295 1, 324 2, 336 1, 343 1, 345 'whQuestion'}
+{ 14 1, 175 1, 290 1, 318 1, 330 1, 345 'yAnswer'}
+{ 19 1, 46 1, 80 1, 160 1, 215 1, 259 1, 286 1, 294 1, 317 1, 321 1, 322 1, 329 1, 336 1, 342 1, 345 'whQuestion'}
+{ 13 1, 66 1, 78 1, 85 1, 96 1, 169 2, 231 2, 295 1, 319 1, 321 2, 322 1, 324 1, 329 2, 339 2, 345 'Statement'}
+{ 8 1, 124 1, 210 1, 285 1, 290 1, 318 1, 324 1, 336 1, 345 'Emotion'}
+{ 13 1, 123 1, 140 1, 153 1, 169 1, 198 1, 204 1, 222 1, 224 1, 238 1, 289 1, 316 1, 324 1, 326 1, 328 1, 329 1, 334 1, 335 1, 337 2, 339 1, 345 'Statement'}
+{ 13 1, 26 1, 66 1, 67 1, 78 2, 90 1, 97 1, 104 1, 142 1, 164 1, 169 1, 184 1, 201 1, 202 1, 236 1, 281 1, 282 1, 295 1, 313 1, 319 2, 321 2, 322 2, 323 1, 324 1, 326 1, 329 2, 330 1, 335 2, 339 1, 345 'Statement'}
+{ 8 1, 109 1, 278 1, 290 1, 318 1, 324 1, 345 'Greet'}
+{ 8 1, 109 1, 290 1, 318 1, 324 1, 345 'Greet'}
+{ 8 1, 35 1, 53 1, 101 1, 114 1, 289 1, 316 2, 318 1, 323 1, 324 1, 345 'Accept'}
+{ 6 1, 96 1, 121 1, 300 1, 322 1, 324 1, 330 1, 345 'Statement'}
+{ 8 1, 109 1, 290 1, 318 1, 324 1, 345 'Statement'}
+{ 9 1, 130 1, 278 1, 290 1, 318 1, 325 1, 345 'Greet'}
+{ 8 1, 109 1, 278 1, 290 1, 318 1, 324 1, 345 'Greet'}
+{ 9 1, 296 1, 345 'Emotion'}
+{ 8 1, 109 1, 290 1, 318 1, 324 1, 345 'Statement'}
+{ 13 1, 21 1, 23 1, 29 1, 104 1, 157 1, 164 1, 206 1, 286 1, 290 1, 312 1, 313 1, 314 1, 318 1, 323 1, 329 2, 335 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Accept'}
+{ 8 1, 109 1, 278 1, 290 1, 318 1, 324 1, 345 'Greet'}
+{ 13 1, 169 1, 221 1, 238 1, 286 1, 294 1, 322 1, 329 1, 337 1, 339 1, 345 'Statement'}
+{ 13 1, 78 1, 168 1, 212 1, 291 1, 319 1, 321 1, 329 1, 336 1, 345 'Emphasis'}
+{ 8 1, 26 1, 51 1, 109 1, 170 1, 178 1, 247 1, 278 1, 294 1, 313 1, 318 1, 322 1, 324 1, 329 1, 330 1, 340 1, 345 'Greet'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 8 1, 108 1, 127 1, 269 1, 289 1, 316 1, 324 2, 344 1, 345 'Statement'}
+{ 9 1, 130 1, 278 1, 290 1, 318 1, 325 1, 345 'Greet'}
+{ 5 1, 81 1, 295 1, 321 1, 324 1, 345 'Statement'}
+{ 8 1, 97 1, 113 1, 276 1, 279 1, 297 1, 322 1, 324 1, 326 1, 345 'Bye'}
+{ 6 1, 95 1, 96 1, 109 1, 290 1, 318 1, 322 2, 324 1, 345 'Statement'}
+{ 7 1, 103 1, 184 1, 202 1, 272 1, 281 1, 294 1, 322 1, 323 1, 330 1, 335 1, 345 'ynQuestion'}
+{ 8 1, 109 1, 278 1, 290 1, 318 1, 324 1, 345 'Greet'}
+{ 8 1, 109 1, 275 1, 290 1, 318 1, 324 1, 345 'Bye'}
+{ 14 1, 61 1, 167 1, 175 1, 215 1, 259 1, 304 1, 318 1, 329 1, 330 1, 335 1, 336 1, 342 1, 345 'whQuestion'}
+{ 8 1, 120 1, 169 1, 285 1, 307 1, 324 1, 329 1, 339 1, 345 'Accept'}
+{ 0 1, 44 1, 311 1, 316 1, 344 1, 345 'Emotion'}
+{ 2 1, 30 14, 35 2, 38 1, 41 1, 53 1, 67 1, 84 1, 107 1, 108 1, 110 1, 115 1, 116 1, 119 1, 133 1, 153 2, 169 1, 231 1, 271 1, 288 1, 315 15, 316 4, 318 1, 319 1, 321 1, 324 6, 325 1, 328 2, 329 1, 339 1, 345 'Reject'}
+{ 10 1, 35 1, 38 1, 53 2, 77 1, 109 1, 142 1, 271 1, 278 1, 289 1, 316 3, 318 2, 321 1, 324 1, 326 1, 345 'Statement'}
+{ 13 1, 23 1, 156 1, 169 2, 171 1, 235 2, 263 1, 286 1, 290 1, 313 1, 318 1, 329 4, 339 2, 343 1, 345 'Statement'}
+{ 10 1, 297 1, 345 'Statement'}
+{ 2 1, 31 1, 39 1, 59 1, 67 1, 107 1, 110 1, 233 1, 296 1, 315 1, 316 1, 318 1, 319 1, 324 2, 325 1, 339 1, 345 'Emphasis'}
+{ 6 1, 30 3, 96 1, 107 1, 288 1, 315 4, 322 1, 324 1, 345 'Emphasis'}
+{ 8 1, 115 1, 295 1, 324 2, 345 'Accept'}
+{ 3 1, 67 1, 84 1, 109 1, 112 1, 115 2, 153 1, 290 1, 318 1, 319 1, 321 1, 324 4, 328 1, 345 'Statement'}
+{ 15 1, 66 1, 77 1, 96 2, 110 1, 112 1, 115 1, 202 1, 290 1, 318 1, 319 1, 321 1, 322 2, 324 3, 335 1, 345 'Statement'}
+{ 8 1, 109 1, 290 1, 318 1, 324 1, 345 'Emotion'}
+{ 9 1, 130 1, 278 1, 290 1, 318 1, 325 1, 345 'Greet'}
+{ 2 1, 30 5, 35 2, 38 1, 41 1, 53 1, 67 2, 84 1, 107 1, 108 1, 110 1, 112 1, 116 1, 133 1, 153 1, 169 1, 230 1, 271 1, 280 1, 288 1, 315 6, 316 4, 318 1, 319 2, 321 1, 324 5, 325 1, 328 1, 329 1, 339 1, 345 'Emphasis'}
+{ 14 1, 177 1, 283 1, 293 1, 321 1, 330 1, 345 'Accept'}
+{ 13 1, 35 1, 38 1, 53 1, 58 1, 107 1, 169 1, 175 1, 229 1, 271 1, 285 1, 288 1, 315 1, 316 2, 318 2, 324 1, 329 1, 330 1, 339 1, 345 'Statement'}
+{ 9 1, 35 1, 129 1, 289 1, 316 2, 325 1, 345 'Emotion'}
+{ 20 1, 169 1, 229 1, 263 1, 286 1, 290 1, 318 1, 329 1, 339 1, 343 1, 345 'whQuestion'}
+{ 14 1, 175 1, 290 1, 318 1, 330 1, 345 'Emotion'}
+{ 10 1, 297 1, 345 'Statement'}
+{ 11 1, 298 1, 345 'Continuer'}
+{ 20 1, 97 1, 261 1, 273 1, 297 1, 322 1, 326 1, 343 1, 345 'whQuestion'}
+{ 3 1, 66 1, 95 1, 97 1, 272 1, 273 1, 297 1, 319 1, 322 2, 326 1, 345 'ynQuestion'}
+{ 5 1, 79 1, 272 1, 293 1, 321 2, 345 'ynQuestion'}
+{ 14 1, 272 1, 300 1, 345 'ynQuestion'}
+{ 14 1, 28 1, 117 1, 138 1, 179 1, 235 1, 266 1, 272 1, 299 1, 313 1, 324 1, 326 1, 329 1, 330 1, 339 1, 343 1, 345 'whQuestion'}
+{ 3 1, 73 1, 81 1, 117 1, 177 1, 247 1, 297 1, 319 1, 321 1, 324 1, 326 1, 330 1, 340 1, 345 'Statement'}
+{ 9 1, 26 1, 105 1, 133 1, 169 1, 239 1, 306 1, 313 1, 324 1, 325 1, 329 1, 338 1, 339 1, 345 'Statement'}
+{ 8 1, 115 1, 278 1, 295 1, 324 2, 345 'Greet'}
+{ 8 1, 127 1, 267 1, 288 1, 315 1, 324 1, 344 1, 345 'Emotion'}
+{ 13 1, 96 1, 117 1, 169 1, 232 1, 283 1, 297 1, 322 1, 324 1, 326 1, 329 1, 339 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 9 1, 22 1, 35 6, 36 1, 39 5, 46 1, 50 1, 67 1, 76 1, 78 1, 85 2, 108 1, 129 2, 132 2, 135 1, 152 1, 156 1, 163 1, 169 2, 174 1, 205 1, 235 1, 236 1, 271 1, 286 1, 296 1, 313 1, 316 12, 317 2, 319 1, 321 4, 324 1, 325 6, 328 1, 329 4, 330 1, 335 1, 339 2, 345 'Statement'}
+{ 13 1, 165 1, 185 1, 305 1, 329 1, 330 1, 336 1, 345 'Statement'}
+{ 16 1, 94 1, 182 1, 184 1, 202 1, 216 1, 281 1, 282 1, 293 1, 321 1, 322 1, 330 2, 335 1, 336 1, 345 'Statement'}
+{ 8 1, 272 1, 295 1, 345 'ynQuestion'}
+{ 8 1, 127 1, 285 1, 311 1, 324 1, 344 1, 345 'Emotion'}
+{ 3 1, 68 1, 73 1, 93 1, 133 1, 243 1, 295 1, 319 2, 322 1, 324 1, 325 1, 340 1, 345 'Emphasis'}
+{ 8 1, 120 1, 170 1, 241 1, 290 1, 318 1, 324 1, 329 1, 340 1, 345 'Accept'}
+{ 2 1, 30 2, 35 2, 38 1, 43 1, 53 1, 91 1, 115 1, 119 1, 129 1, 134 1, 154 1, 184 1, 202 1, 216 1, 271 1, 281 1, 288 1, 315 3, 316 4, 318 1, 322 1, 324 2, 325 2, 328 1, 330 1, 335 1, 336 1, 345 'Reject'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 8 1, 109 1, 290 1, 318 1, 324 1, 345 'Emotion'}
+{ 10 1, 148 1, 307 1, 326 1, 339 1, 345 'Statement'}
+{ 8 1, 121 1, 184 1, 188 1, 206 1, 236 1, 281 1, 299 1, 324 1, 329 1, 330 2, 335 1, 339 1, 345 'Statement'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 8 1, 109 1, 115 1, 290 1, 318 1, 324 2, 345 'Statement'}
+{ 13 1, 69 1, 104 1, 145 1, 164 1, 197 1, 200 1, 286 1, 299 1, 319 1, 323 1, 326 1, 329 2, 334 1, 335 1, 345 'Continuer'}
+{ 3 1, 69 1, 77 1, 126 1, 148 1, 233 1, 252 1, 273 1, 280 1, 290 1, 318 1, 319 1, 321 1, 324 1, 326 1, 339 1, 341 1, 345 'ynQuestion'}
+{ 8 1, 35 1, 41 1, 108 1, 115 1, 124 1, 169 1, 182 1, 214 1, 236 1, 271 1, 300 1, 316 2, 324 3, 329 1, 330 2, 336 1, 339 1, 345 'Statement'}
+{ 14 1, 23 1, 67 1, 78 1, 124 1, 177 1, 209 1, 290 1, 313 1, 318 1, 319 1, 321 1, 324 1, 330 1, 336 1, 345 'Statement'}
+{ 8 1, 124 1, 305 1, 324 1, 336 1, 345 'Statement'}
+{ 10 1, 52 1, 141 1, 272 1, 285 1, 288 1, 315 1, 318 1, 326 1, 345 'whQuestion'}
+{ 8 1, 59 1, 109 1, 239 1, 306 1, 318 1, 324 1, 338 1, 339 1, 345 'Statement'}
+{ 10 1, 77 1, 144 1, 177 1, 274 1, 290 1, 318 1, 321 1, 326 1, 330 1, 345 'Statement'}
+{ 13 1, 165 1, 166 1, 168 1, 185 1, 198 1, 215 1, 219 1, 258 1, 286 1, 304 1, 329 3, 330 1, 334 1, 335 1, 336 2, 342 1, 345 'Statement'}
+{ 10 1, 81 1, 148 2, 169 1, 181 1, 231 1, 234 1, 236 1, 280 2, 295 1, 321 1, 324 1, 326 2, 329 1, 330 1, 339 3, 345 'Statement'}
+{ 5 1, 87 1, 226 1, 299 1, 321 1, 329 1, 338 1, 345 'Statement'}
+{ 10 1, 35 1, 41 1, 53 1, 100 1, 121 1, 141 1, 153 1, 169 1, 173 1, 198 1, 205 1, 232 1, 271 1, 288 1, 315 1, 316 2, 318 1, 322 1, 324 1, 326 1, 328 1, 329 1, 330 1, 334 1, 335 1, 339 1, 345 'Emphasis'}
+{ 10 1, 272 1, 297 1, 345 'whQuestion'}
+{ 2 1, 55 1, 69 1, 148 1, 198 1, 237 1, 273 1, 304 1, 318 1, 319 1, 326 1, 334 1, 335 1, 339 1, 345 'ynQuestion'}
+{ 7 1, 102 1, 158 1, 169 1, 197 1, 237 1, 278 1, 288 1, 315 1, 323 1, 329 2, 334 1, 339 1, 345 'ynQuestion'}
+{ 8 1, 30 1, 52 1, 109 1, 288 1, 315 2, 318 1, 324 1, 345 'Emotion'}
+{ 10 1, 144 1, 300 1, 326 1, 330 1, 345 'Clarify'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 3 1, 30 1, 35 1, 38 1, 57 1, 68 1, 123 1, 128 1, 129 1, 134 1, 151 1, 194 1, 271 1, 288 1, 315 2, 316 2, 318 1, 319 1, 324 1, 325 3, 327 1, 334 1, 345 'Emphasis'}
+{ 13 1, 65 1, 70 1, 104 2, 164 2, 200 1, 304 1, 319 2, 323 2, 329 2, 335 2, 345 'Statement'}
+{ 19 1, 161 1, 246 1, 260 1, 272 1, 290 1, 318 1, 329 1, 340 1, 342 1, 345 'whQuestion'}
+{ 13 1, 123 1, 125 1, 153 1, 169 1, 171 1, 196 1, 235 1, 249 1, 262 1, 306 1, 324 2, 328 1, 329 2, 334 1, 338 1, 339 1, 340 1, 343 1, 345 'Statement'}
+{ 2 1, 290 1, 345 'Statement'}
+{ 19 1, 107 1, 257 1, 272 1, 288 1, 315 1, 324 1, 342 1, 345 'whQuestion'}
+{ 10 1, 297 1, 345 'Statement'}
+{ 9 1, 64 1, 131 1, 278 1, 290 1, 318 1, 319 1, 325 1, 345 'Greet'}
+{ 2 1, 60 1, 141 1, 155 1, 222 1, 248 1, 290 1, 318 2, 326 1, 328 1, 337 1, 340 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Accept'}
+{ 8 1, 30 1, 52 1, 109 1, 288 1, 315 2, 318 1, 324 1, 345 'Emotion'}
+{ 0 1, 44 1, 311 1, 316 1, 344 1, 345 'Emotion'}
+{ 12 1, 27 1, 105 1, 153 2, 167 1, 205 1, 235 1, 272 1, 278 1, 286 2, 295 1, 313 1, 324 2, 328 2, 329 1, 335 1, 339 1, 345 'ynQuestion'}
+{ 5 1, 89 1, 112 1, 125 1, 153 1, 245 1, 257 1, 282 1, 286 1, 293 1, 321 2, 324 2, 328 1, 340 1, 342 1, 345 'whQuestion'}
+{ 19 1, 23 1, 254 1, 290 1, 313 1, 318 1, 342 1, 345 'whQuestion'}
+{ 14 1, 48 1, 189 1, 240 1, 297 1, 317 1, 326 1, 330 1, 340 1, 345 'Statement'}
+{ 13 1, 82 1, 134 1, 169 1, 183 1, 190 1, 236 1, 273 1, 296 1, 321 1, 325 2, 329 1, 330 1, 331 1, 339 1, 345 'Emphasis'}
+{ 8 1, 30 1, 107 1, 115 1, 288 1, 315 2, 324 2, 345 'Emotion'}
+{ 8 1, 272 1, 295 1, 345 'whQuestion'}
+{ 8 1, 121 1, 300 1, 324 1, 330 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Statement'}
+{ 1 1, 49 1, 71 1, 162 1, 170 1, 246 1, 301 1, 317 1, 319 1, 329 2, 332 1, 340 1, 345 'Continuer'}
+{ 13 1, 169 1, 235 1, 299 1, 329 2, 339 1, 345 'Statement'}
+{ 8 1, 62 1, 109 1, 167 1, 201 1, 235 1, 266 1, 293 1, 318 1, 321 1, 324 1, 329 1, 335 1, 339 1, 343 1, 345 'whQuestion'}
+{ 19 1, 272 1, 310 1, 345 'whQuestion'}
+{ 10 1, 30 1, 33 1, 139 1, 272 1, 295 1, 315 2, 324 1, 326 1, 345 'whQuestion'}
+{ 9 1, 272 1, 296 1, 345 'ynQuestion'}
+{ 14 1, 85 1, 169 1, 177 1, 234 1, 297 1, 321 1, 326 1, 329 1, 330 1, 339 1, 345 'Statement'}
+{ 13 1, 35 1, 92 1, 170 1, 221 1, 238 1, 250 1, 271 1, 289 1, 316 2, 322 1, 329 1, 337 1, 339 1, 340 1, 345 'Statement'}
+{ 13 1, 84 1, 104 1, 155 1, 163 1, 164 1, 206 1, 278 1, 297 1, 321 1, 323 1, 326 1, 328 1, 329 2, 335 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 2 1, 63 1, 269 1, 295 1, 318 1, 324 1, 344 1, 345 'Statement'}
+{ 10 1, 297 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 8 1, 295 1, 345 'whQuestion'}
+{ 8 1, 120 1, 169 1, 233 1, 285 1, 295 1, 324 2, 329 1, 339 1, 345 'Accept'}
+{ 8 1, 115 1, 117 1, 297 1, 324 2, 326 1, 345 'Statement'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 13 1, 67 1, 110 1, 121 1, 122 1, 133 1, 170 1, 180 1, 244 1, 286 1, 302 1, 319 1, 324 3, 325 1, 329 1, 330 1, 333 1, 340 1, 345 'Reject'}
+{ 8 1, 117 1, 139 1, 272 1, 288 1, 315 1, 324 1, 326 1, 345 'ynQuestion'}
+{ 8 1, 67 1, 122 1, 124 1, 211 1, 302 1, 319 1, 324 2, 333 1, 336 1, 345 'Reject'}
+{ 3 1, 70 1, 139 1, 169 1, 184 1, 204 1, 236 1, 280 1, 281 1, 288 1, 315 1, 319 1, 326 1, 329 1, 330 1, 335 1, 339 1, 345 'Reject'}
+{ 12 1, 153 1, 295 1, 324 1, 328 1, 345 'ynQuestion'}
+{ 13 1, 141 1, 169 1, 234 1, 290 1, 318 1, 326 1, 329 1, 339 1, 345 'Emphasis'}
+{ 0 1, 44 1, 311 1, 316 1, 344 1, 345 'Emotion'}
+{ 2 1, 63 1, 67 1, 78 1, 96 1, 112 1, 268 1, 295 1, 318 1, 319 1, 321 1, 322 1, 324 2, 344 1, 345 'Statement'}
+{ 19 1, 98 1, 169 1, 256 1, 272 1, 307 1, 322 1, 329 1, 339 1, 342 1, 345 'whQuestion'}
+{ 8 1, 295 1, 345 'Emotion'}
+{ 14 1, 75 1, 96 1, 176 1, 178 1, 280 1, 295 1, 320 1, 322 1, 324 1, 330 2, 345 'Reject'}
+{ 20 1, 30 2, 34 1, 96 1, 107 1, 148 1, 173 1, 232 1, 264 1, 272 1, 281 1, 288 1, 315 4, 322 1, 324 1, 326 1, 330 1, 339 1, 343 1, 345 'whQuestion'}
+
